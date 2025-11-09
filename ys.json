@@ -13385,6 +13385,4234 @@
             }
         ]
     },
+    "夜十三红浪漫": {
+        "token": "yes",
+        "sort": "15",
+        "desc": "需要填写token，token获取方法：前往https://fish.audio/zh-CN/注册申请（需要美国或加拿大手机号验证，token含有$1额度）",
+        "url": "https://fish.audio/zh-CN/",
+        "alias": "Fish",
+        "type": "fish.audio",
+        "list": [
+            {
+                "name": "夜十三",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6b24304cb2e9469d893da14059d328d8",
+                "vid": "6b24304cb2e9469d893da14059d328d8"
+            },
+            {
+                "name": "阿杜",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6d076a0627244ba895e07038be2a0978",
+                "vid": "6d076a0627244ba895e07038be2a0978"
+            },
+            {
+                "name": "法外狂徒张三",
+                "desc": "请开始你的表演！",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3cb7ec053a074fa7b43a578c9b172bed",
+                "vid": "3cb7ec053a074fa7b43a578c9b172bed"
+            },
+            {
+                "name": "秦志远",
+                "desc": "抖音-大哥远",
+                "img": "https://public-platform.r2.fish.audio/coverimage/386e4e45754847c7962eecebf11490dd",
+                "vid": "386e4e45754847c7962eecebf11490dd"
+            },
+            {
+                "name": "听泉",
+                "desc": "抖音-听泉鉴宝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/22719893fcb14ca7a5461fe1a5614271",
+                "vid": "22719893fcb14ca7a5461fe1a5614271"
+            },
+            {
+                "name": "小鱼",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/280062e4c7004fa99dfa454ff76f77ca",
+                "vid": "280062e4c7004fa99dfa454ff76f77ca"
+            },
+            {
+                "name": "kakaall",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/18190d8e5fe14b2db43cca713f7f606b",
+                "vid": "18190d8e5fe14b2db43cca713f7f606b"
+            },
+            {
+                "name": "小杰",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c04cc07055cf4605b4f2807e4d218270",
+                "vid": "c04cc07055cf4605b4f2807e4d218270"
+            },
+            {
+                "name": "小美",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/302991cff3314da0935d459b5d713595",
+                "vid": "302991cff3314da0935d459b5d713595"
+            },
+            {
+                "name": "听风",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/854c4831ac7d4fce8c2cc0df019a290a",
+                "vid": "854c4831ac7d4fce8c2cc0df019a290a"
+            },
+            {
+                "name": "御姐狐狸精",
+                "desc": "投稿 侵可删",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f94bbdbec4d94c269df7e95d50326673",
+                "vid": "f94bbdbec4d94c269df7e95d50326673"
+            },
+            {
+                "name": "冷冷",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6c054092c40b46df9acab1bbd45c81a7",
+                "vid": "6c054092c40b46df9acab1bbd45c81a7"
+            },
+            {
+                "name": "迪丽热巴",
+                "desc": "投稿 侵可删",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5f5e1503d3204423ade6b64338ff571a",
+                "vid": "5f5e1503d3204423ade6b64338ff571a"
+            },
+            {
+                "name": "唐大淫",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a2f5eb880b344769a8c8930756f4cce6",
+                "vid": "a2f5eb880b344769a8c8930756f4cce6"
+            },
+            {
+                "name": "柒柒",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1534dfbf3fc4426d835be1980fba4ed9",
+                "vid": "1534dfbf3fc4426d835be1980fba4ed9"
+            },
+            {
+                "name": "虾仁",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b41b6cf6378f4e8a9955fafdef02ae68",
+                "vid": "b41b6cf6378f4e8a9955fafdef02ae68"
+            },
+            {
+                "name": "骚杯女友",
+                "desc": "超好听",
+                "img": "https://public-platform.r2.fish.audio/coverimage/593007662d4140abacfc0f8783edb4fc",
+                "vid": "593007662d4140abacfc0f8783edb4fc"
+            },
+            {
+                "name": "阿明",
+                "desc": "爱喝马尿的阿明",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5556f78b4f184a5a82773822935d722b",
+                "vid": "5556f78b4f184a5a82773822935d722b"
+            },
+            {
+                "name": "老吴",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0056bcbcd04f4d71bc98cbb11250c75a",
+                "vid": "0056bcbcd04f4d71bc98cbb11250c75a"
+            },
+            {
+                "name": "百度茉莉",
+                "desc": "骚杯音色",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6ce7ea8ada884bf3889fa7c7fb206691",
+                "vid": "6ce7ea8ada884bf3889fa7c7fb206691"
+            },
+            {
+                "name": "蜻蜓队长",
+                "desc": "童年回忆",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4cdc42cf566a4861a03d3499d6b9b853",
+                "vid": "4cdc42cf566a4861a03d3499d6b9b853"
+            },
+            {
+                "name": "蓉宝",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/89ac54a2956f46399318c88ecde69bf9",
+                "vid": "89ac54a2956f46399318c88ecde69bf9"
+            }
+        ]
+    },
+    "Fish音色": {
+        "token": "yes",
+        "sort": "14",
+        "desc": "需要填写token，token获取方法：前往https://fish.audio/zh-CN/注册申请（需要美国或加拿大手机号验证，token含有$1额度）",
+        "url": "https://fish.audio/zh-CN/",
+        "alias": "Fish",
+        "type": "fish.audio",
+        "list": [
+            {
+                "name": "iOS小萝卜",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6f09e7fc580a4982b8d28d9c4a71332d",
+                "vid": "6f09e7fc580a4982b8d28d9c4a71332d"
+            },
+            {
+                "name": "IOS小姐姐",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c7f89a05aff54325b7a6b2602e179cfb",
+                "vid": "c7f89a05aff54325b7a6b2602e179cfb"
+            },
+            {
+                "name": "老磊子",
+                "desc": "大家好,我是老磊子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/61892ebecd7f4810a8b1f170e8e3a0db",
+                "vid": "61892ebecd7f4810a8b1f170e8e3a0db"
+            },
+            {
+                "name": "白白",
+                "desc": "大家好,我是白白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0389fa01a45b4fc18fb2994efcbd2cd9",
+                "vid": "0389fa01a45b4fc18fb2994efcbd2cd9"
+            },
+            {
+                "name": "晴天",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0454472c6cee456d9fd0c96fc3158b38",
+                "vid": "0454472c6cee456d9fd0c96fc3158b38"
+            },
+            {
+                "name": "军哥",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/351b0ab7c5d74418adf182a7b199506a",
+                "vid": "351b0ab7c5d74418adf182a7b199506a"
+            },
+            {
+                "name": "Samll汉堡",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/aeffa646e0cf4b709f85114695db7c99",
+                "vid": "aeffa646e0cf4b709f85114695db7c99"
+            },
+            {
+                "name": "小贝",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9ab9fc06b6c74867ba48d19817455f4c",
+                "vid": "9ab9fc06b6c74867ba48d19817455f4c"
+            },
+            {
+                "name": "iOS小昕",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9964750016a5486483c79131a458ea93",
+                "vid": "9964750016a5486483c79131a458ea93"
+            },
+            {
+                "name": "谦哥",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/073f0173a8b146da9338b7ab3091ed15",
+                "vid": "073f0173a8b146da9338b7ab3091ed15"
+            },
+            {
+                "name": "ios浪漫",
+                "desc": "浪漫哥哥个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/87c67c8bd1ab46948426dd1c8727f815",
+                "vid": "87c67c8bd1ab46948426dd1c8727f815"
+            },
+            {
+                "name": "毕竟我是郭二黑",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/602d4432647446e39bea7bfe5d9ea64c",
+                "vid": "602d4432647446e39bea7bfe5d9ea64c"
+            },
+            {
+                "name": "桀骜不驯李公子",
+                "desc": "个人录制",
+                "img": "https://public-platform.r2.fish.audio/coverimage/78251405b99f4f09bf89573b59289bce",
+                "vid": "78251405b99f4f09bf89573b59289bce"
+            },
+            {
+                "name": "麦克阿瑟",
+                "desc": "磁性,日常影视解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ebd192b6227d49d19553ec6004aa19ca",
+                "vid": "ebd192b6227d49d19553ec6004aa19ca"
+            },
+            {
+                "name": "熊二",
+                "desc": "憨憨熊二,搞笑可爱",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5c8879f43c164b50be28081aa775a395",
+                "vid": "5c8879f43c164b50be28081aa775a395"
+            },
+            {
+                "name": "樱桃丸子",
+                "desc": "樱桃丸子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/91d9926e0b9b43d1b32df776dd74770d",
+                "vid": "91d9926e0b9b43d1b32df776dd74770d"
+            },
+            {
+                "name": "孙悟空",
+                "desc": "猴哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8e97456a5e764324804b955e8c17a6e1",
+                "vid": "8e97456a5e764324804b955e8c17a6e1"
+            },
+            {
+                "name": "四郎",
+                "desc": "慵懒深沉,酷似皇上",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1e7fb3ffd4a74fd7a38c28b66152f940",
+                "vid": "1e7fb3ffd4a74fd7a38c28b66152f940"
+            },
+            {
+                "name": "团团",
+                "desc": "萌丫头",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5b37f4ca0a3c4a718c448bb3ea1803de",
+                "vid": "5b37f4ca0a3c4a718c448bb3ea1803de"
+            },
+            {
+                "name": "阿美",
+                "desc": "知性随和(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5763bfea8a2b4229bba9517a93b71fd4",
+                "vid": "5763bfea8a2b4229bba9517a93b71fd4"
+            },
+            {
+                "name": "艾宝",
+                "desc": "萝莉女声,伶俐可爱",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bba0503559f140569d434a4c6b045253",
+                "vid": "bba0503559f140569d434a4c6b045253"
+            },
+            {
+                "name": "艾诚",
+                "desc": "年轻时尚,自然磁性(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c19dccdd383346879851c56004afe3eb",
+                "vid": "c19dccdd383346879851c56004afe3eb"
+            },
+            {
+                "name": "艾厨",
+                "desc": "舌尖上的旁白君",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5bb394f13c75497e9eb11927ce2c81e6",
+                "vid": "5bb394f13c75497e9eb11927ce2c81e6"
+            },
+            {
+                "name": "艾达",
+                "desc": "大气稳重,品质沉稳(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/89423fcbcbad4333a9ae9cb66b6bbc2d",
+                "vid": "89423fcbcbad4333a9ae9cb66b6bbc2d"
+            },
+            {
+                "name": "艾凡",
+                "desc": "广告宣传,新闻播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/990acddaaf9f42fdaa51b70e5731c25c",
+                "vid": "990acddaaf9f42fdaa51b70e5731c25c"
+            },
+            {
+                "name": "艾飞",
+                "desc": "激昂解说,短视频旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/195e60ae1c5f46e79c244a46964475b1",
+                "vid": "195e60ae1c5f46e79c244a46964475b1"
+            },
+            {
+                "name": "艾浩",
+                "desc": "影视旁白解说君",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7fa276ab26ed4b9aab7853011fc4cde5",
+                "vid": "7fa276ab26ed4b9aab7853011fc4cde5"
+            },
+            {
+                "name": "艾佳",
+                "desc": "温柔亲切,自然动听(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4fd21be7da554ac5977c3652bd62b1cd",
+                "vid": "4fd21be7da554ac5977c3652bd62b1cd"
+            },
+            {
+                "name": "艾婧",
+                "desc": "温和大气,力量干练",
+                "img": "https://public-platform.r2.fish.audio/coverimage/43fe9b6c9f2148068fd406e2fc5bd3a8",
+                "vid": "43fe9b6c9f2148068fd406e2fc5bd3a8"
+            },
+            {
+                "name": "艾侃",
+                "desc": "天津话男声,小品搞笑配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bf89a36b3db848a883224a74aa979b71",
+                "vid": "bf89a36b3db848a883224a74aa979b71"
+            },
+            {
+                "name": "艾伦",
+                "desc": "悬疑解说,视频配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/72dd1dd5eb8c42ed85bae1f1860ec488",
+                "vid": "72dd1dd5eb8c42ed85bae1f1860ec488"
+            },
+            {
+                "name": "艾美",
+                "desc": "温柔亲切,婉转悦耳(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a0a1ff48422e435a96615b220ac305de",
+                "vid": "a0a1ff48422e435a96615b220ac305de"
+            },
+            {
+                "name": "艾茗",
+                "desc": "诙谐男声,通用旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f447228f967b47718280c900d7cd68c3",
+                "vid": "f447228f967b47718280c900d7cd68c3"
+            },
+            {
+                "name": "艾墨",
+                "desc": "新闻资讯,广播播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4b9a61b688cc4b43813005d6db8c11ca",
+                "vid": "4b9a61b688cc4b43813005d6db8c11ca"
+            },
+            {
+                "name": "艾娜",
+                "desc": "浙普女声,亲切温和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7060963d1a514a40979af8ba8b51e013",
+                "vid": "7060963d1a514a40979af8ba8b51e013"
+            },
+            {
+                "name": "艾楠",
+                "desc": "广告宣传,温润旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7bdc48164d6849e0839f702f9927e75e",
+                "vid": "7bdc48164d6849e0839f702f9927e75e"
+            },
+            {
+                "name": "艾琪",
+                "desc": "轻松舒适,年轻活力(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/011cd323c3fa47a2bdf23c0f8ce76277",
+                "vid": "011cd323c3fa47a2bdf23c0f8ce76277"
+            },
+            {
+                "name": "艾倩",
+                "desc": "资讯女声,自然大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cbcb9b77af9a4dbfaccafe953715142a",
+                "vid": "cbcb9b77af9a4dbfaccafe953715142a"
+            },
+            {
+                "name": "艾茹",
+                "desc": "新闻女声,旁白播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c50e59f31b17441ca16ead019acbcea2",
+                "vid": "c50e59f31b17441ca16ead019acbcea2"
+            },
+            {
+                "name": "艾树",
+                "desc": "影视解说,短视频旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/38699ad65ce6474eb7e7d639e421e0fc",
+                "vid": "38699ad65ce6474eb7e7d639e421e0fc"
+            },
+            {
+                "name": "艾硕",
+                "desc": "自然男声,沉稳时尚",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6e35c2eb1c134e89a7f08d3644d51a69",
+                "vid": "6e35c2eb1c134e89a7f08d3644d51a69"
+            },
+            {
+                "name": "艾斯",
+                "desc": "新闻男声,知性自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1c9dfbdd79b046d8a581c3d13c10f760",
+                "vid": "1c9dfbdd79b046d8a581c3d13c10f760"
+            },
+            {
+                "name": "艾婷",
+                "desc": "深夜情感电台主播",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6fc75936a6a543dc9f4ec8c2e77dac73",
+                "vid": "6fc75936a6a543dc9f4ec8c2e77dac73"
+            },
+            {
+                "name": "艾彤",
+                "desc": "活泼欢快,天真烂漫",
+                "img": "https://public-platform.r2.fish.audio/coverimage/38b77fd517fc43418e405e8b0e5852a2",
+                "vid": "38b77fd517fc43418e405e8b0e5852a2"
+            },
+            {
+                "name": "艾薇",
+                "desc": "萝莉女声,甜美",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3638614a5db2492fbffe18026ef1e788",
+                "vid": "3638614a5db2492fbffe18026ef1e788"
+            },
+            {
+                "name": "艾夏",
+                "desc": "亲切温和,温润纯净(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6292067df1ce4410a9a88cef376f3231",
+                "vid": "6292067df1ce4410a9a88cef376f3231"
+            },
+            {
+                "name": "艾祥",
+                "desc": "广播播报,视频解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9fbb25e6b8774d23897c876947131d87",
+                "vid": "9fbb25e6b8774d23897c876947131d87"
+            },
+            {
+                "name": "艾笑",
+                "desc": "地摊叫卖,商场宣传",
+                "img": "https://public-platform.r2.fish.audio/coverimage/63e5edf7485649dfa2d68968483e62bd",
+                "vid": "63e5edf7485649dfa2d68968483e62bd"
+            },
+            {
+                "name": "艾雅",
+                "desc": "清晰自然,悦耳动听(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4c66c813c278473eafade115c15fdeb7",
+                "vid": "4c66c813c278473eafade115c15fdeb7"
+            },
+            {
+                "name": "艾晔",
+                "desc": "青年男声,亲切友善",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8265c83788174a35b1360ab850537c4e",
+                "vid": "8265c83788174a35b1360ab850537c4e"
+            },
+            {
+                "name": "艾颖",
+                "desc": "软萌可爱,童声朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/56d7171beaa1418c9c16301c48809f90",
+                "vid": "56d7171beaa1418c9c16301c48809f90"
+            },
+            {
+                "name": "艾雨",
+                "desc": "优雅柔和,自然大方(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1f28dcca91694d72a450ab04bc25b9d1",
+                "vid": "1f28dcca91694d72a450ab04bc25b9d1"
+            },
+            {
+                "name": "艾媛",
+                "desc": "知心姐姐,情感旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/80a43a5c83dd44cfb5264e9e838f6f5d",
+                "vid": "80a43a5c83dd44cfb5264e9e838f6f5d"
+            },
+            {
+                "name": "艾悦",
+                "desc": "亲切自然,字正腔圆(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/637132d1279c4fd9b4150de836f19cd2",
+                "vid": "637132d1279c4fd9b4150de836f19cd2"
+            },
+            {
+                "name": "爱聆",
+                "desc": "洪亮大气,感染力强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c2823439cca14b1d80aa2d6e85ddcd5f",
+                "vid": "c2823439cca14b1d80aa2d6e85ddcd5f"
+            },
+            {
+                "name": "安小贝",
+                "desc": "粤语女声,知性甜美",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ef0dbe1527204f51a34ec44a66b50b67",
+                "vid": "ef0dbe1527204f51a34ec44a66b50b67"
+            },
+            {
+                "name": "安小琛",
+                "desc": "电影旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/97ce8f094c3749c9a81773e57b6f939b",
+                "vid": "97ce8f094c3749c9a81773e57b6f939b"
+            },
+            {
+                "name": "安小川",
+                "desc": "磁性解说男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/dfef315e0843400f9802a59e4d50cdf9",
+                "vid": "dfef315e0843400f9802a59e4d50cdf9"
+            },
+            {
+                "name": "安小登",
+                "desc": "中原官话河南",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7258ff7de18f4c9b946ac1112e61ce1f",
+                "vid": "7258ff7de18f4c9b946ac1112e61ce1f"
+            },
+            {
+                "name": "安小豆",
+                "desc": "少儿故事",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ea869216410c4cc08595a7d6273e9a2c",
+                "vid": "ea869216410c4cc08595a7d6273e9a2c"
+            },
+            {
+                "name": "安小度",
+                "desc": "成熟稳重,情感丰富",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5e091dd1df314ff9befe52203fda822b",
+                "vid": "5e091dd1df314ff9befe52203fda822b"
+            },
+            {
+                "name": "安小恩",
+                "desc": "新闻女生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e4690f0f68fb4f99877a9e688ccb85cc",
+                "vid": "e4690f0f68fb4f99877a9e688ccb85cc"
+            },
+            {
+                "name": "安小飞",
+                "desc": "童年伙伴,可爱男孩",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c15888d8ae6e4aeca197fd8e408fea73",
+                "vid": "c15888d8ae6e4aeca197fd8e408fea73"
+            },
+            {
+                "name": "安小枫",
+                "desc": "古风男主",
+                "img": "https://public-platform.r2.fish.audio/coverimage/18a4763e9826419ea4efb51ed209474e",
+                "vid": "18a4763e9826419ea4efb51ed209474e"
+            },
+            {
+                "name": "安小峰",
+                "desc": "醇厚男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/249c51dec6454ef5ae13e731b7b6dfff",
+                "vid": "249c51dec6454ef5ae13e731b7b6dfff"
+            },
+            {
+                "name": "安小航",
+                "desc": "影视解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/21f826c2aebf4d639637fa3326e2a3a8",
+                "vid": "21f826c2aebf4d639637fa3326e2a3a8"
+            },
+            {
+                "name": "安小可",
+                "desc": "天津女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/00b999c9fe5b406f8de81b8e0fe9eae0",
+                "vid": "00b999c9fe5b406f8de81b8e0fe9eae0"
+            },
+            {
+                "name": "安小凌",
+                "desc": "温柔男声,活力男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8f92accbdf04525810ca3940371bd69",
+                "vid": "a8f92accbdf04525810ca3940371bd69"
+            },
+            {
+                "name": "安小敏",
+                "desc": "粤语女声,甜美亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ad33b455b56948229b49a956a4ae15d8",
+                "vid": "ad33b455b56948229b49a956a4ae15d8"
+            },
+            {
+                "name": "安小妮",
+                "desc": "甜美女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0b69b2d6f18b41af9fe46ca481453352",
+                "vid": "0b69b2d6f18b41af9fe46ca481453352"
+            },
+            {
+                "name": "安小齐",
+                "desc": "广西口音普通话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b0c6f57dc7d242129b41293362662a4c",
+                "vid": "b0c6f57dc7d242129b41293362662a4c"
+            },
+            {
+                "name": "安小琪",
+                "desc": "俏皮女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4b3d846912a54ab1aead51b6d84c1ffc",
+                "vid": "4b3d846912a54ab1aead51b6d84c1ffc"
+            },
+            {
+                "name": "安小晴",
+                "desc": "四川女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8320e5cbc0742948e1e214df7ecc657",
+                "vid": "a8320e5cbc0742948e1e214df7ecc657"
+            },
+            {
+                "name": "安小然",
+                "desc": "邻家女孩",
+                "img": "https://public-platform.r2.fish.audio/coverimage/90ce8cfb0b534e89bf94d2d7237fb686",
+                "vid": "90ce8cfb0b534e89bf94d2d7237fb686"
+            },
+            {
+                "name": "安小柔",
+                "desc": "温柔女声,知性自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7ca57fd7f0024311831b6cf05e6ff31e",
+                "vid": "7ca57fd7f0024311831b6cf05e6ff31e"
+            },
+            {
+                "name": "安小森",
+                "desc": "开朗男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/533b56633a154e1bb9a1040567f0462d",
+                "vid": "533b56633a154e1bb9a1040567f0462d"
+            },
+            {
+                "name": "安小山",
+                "desc": "促销男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2dc66afd564c4c87a1601beca6c2eb99",
+                "vid": "2dc66afd564c4c87a1601beca6c2eb99"
+            },
+            {
+                "name": "安小松",
+                "desc": "粤语男声,磁性成熟",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cf04024dc5064a57bc05607bdbafcacd",
+                "vid": "cf04024dc5064a57bc05607bdbafcacd"
+            },
+            {
+                "name": "安小童",
+                "desc": "元气正太",
+                "img": "https://public-platform.r2.fish.audio/coverimage/23d1a35d18b74c87ac4ed1b5b09df4c6",
+                "vid": "23d1a35d18b74c87ac4ed1b5b09df4c6"
+            },
+            {
+                "name": "安小萱",
+                "desc": "知性女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e8f1dfbe09da428ea6a4ed02a81b71df",
+                "vid": "e8f1dfbe09da428ea6a4ed02a81b71df"
+            },
+            {
+                "name": "安小雅",
+                "desc": "清新女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2e31462cb1cb4f76ae77cee9d1933ed9",
+                "vid": "2e31462cb1cb4f76ae77cee9d1933ed9"
+            },
+            {
+                "name": "安小雅",
+                "desc": "自然动听,发音标准",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb8dd62214d443d5bdfd43ef5112f709",
+                "vid": "cb8dd62214d443d5bdfd43ef5112f709"
+            },
+            {
+                "name": "安小阳",
+                "desc": "活力广告男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/25160a42c0db4f1d83251b68a1e30c39",
+                "vid": "25160a42c0db4f1d83251b68a1e30c39"
+            },
+            {
+                "name": "安小幺",
+                "desc": "小孩",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f2d1f5ae0119451eaefa57decb13a438",
+                "vid": "f2d1f5ae0119451eaefa57decb13a438"
+            },
+            {
+                "name": "安小艺",
+                "desc": "洪亮大气,感染力强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/684722b0027e4be3ab8aababea69e15f",
+                "vid": "684722b0027e4be3ab8aababea69e15f"
+            },
+            {
+                "name": "安小宇",
+                "desc": "亲切男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a7fafcdbd8c8409e85f3df362bb2c943",
+                "vid": "a7fafcdbd8c8409e85f3df362bb2c943"
+            },
+            {
+                "name": "安小语",
+                "desc": "悬疑解说,惊悚解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/24c431f8944743ab839a4abf7aeefd40",
+                "vid": "24c431f8944743ab839a4abf7aeefd40"
+            },
+            {
+                "name": "安小岳",
+                "desc": "舌尖上的中国",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0885792789c74e1394406d6e8dd43989",
+                "vid": "0885792789c74e1394406d6e8dd43989"
+            },
+            {
+                "name": "安小悦",
+                "desc": "甜美悦悦,亲切女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f664eb7424ef4f998922dbd38cf07997",
+                "vid": "f664eb7424ef4f998922dbd38cf07997"
+            },
+            {
+                "name": "安小云",
+                "desc": "宣传,解说,旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9fcffde550604a508b12f0a32259cd2a",
+                "vid": "9fcffde550604a508b12f0a32259cd2a"
+            },
+            {
+                "name": "安小哲",
+                "desc": "粤语男声,沉稳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8960d6f9cbf9496fbf2bd8ff5a3ba851",
+                "vid": "8960d6f9cbf9496fbf2bd8ff5a3ba851"
+            },
+            {
+                "name": "安小振",
+                "desc": "党政宣传",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3fe6f949c1334d339ec1342905bb8531",
+                "vid": "3fe6f949c1334d339ec1342905bb8531"
+            },
+            {
+                "name": "八卦妹",
+                "desc": "娱乐扒妹,八卦",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fb6219c5c2464fb2bfbe8c68b31b8a86",
+                "vid": "fb6219c5c2464fb2bfbe8c68b31b8a86"
+            },
+            {
+                "name": "贝贝",
+                "desc": "萝莉女声,可爱机灵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/edd5155555bb49f7bb482396acbf6b1d",
+                "vid": "edd5155555bb49f7bb482396acbf6b1d"
+            },
+            {
+                "name": "贝果",
+                "desc": "大气利落,知性自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8814ff4096b24770b0456bb912f82754",
+                "vid": "8814ff4096b24770b0456bb912f82754"
+            },
+            {
+                "name": "贝蕾",
+                "desc": "大方自然,轻松舒适",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8106f80f7d3e473bbae8609805856252",
+                "vid": "8106f80f7d3e473bbae8609805856252"
+            },
+            {
+                "name": "贝雪",
+                "desc": "大气动听,自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1c59f6af3c1545fc87565be17540e154",
+                "vid": "1c59f6af3c1545fc87565be17540e154"
+            },
+            {
+                "name": "贝紫",
+                "desc": "粤语发音,年轻时尚,清晰自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/145bbc2c48d04b32b7ade51581751d36",
+                "vid": "145bbc2c48d04b32b7ade51581751d36"
+            },
+            {
+                "name": "灿灿",
+                "desc": "解说,阅读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d20a99410a3c4882902c424bb4c34122",
+                "vid": "d20a99410a3c4882902c424bb4c34122"
+            },
+            {
+                "name": "承宇",
+                "desc": "新闻男生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/77f202acc80f4850beaf21bbbb77045c",
+                "vid": "77f202acc80f4850beaf21bbbb77045c"
+            },
+            {
+                "name": "翠姐",
+                "desc": "东北话女声,亲切豪爽",
+                "img": "https://public-platform.r2.fish.audio/coverimage/dbea331a077545bca3f3488bfde7ee64",
+                "vid": "dbea331a077545bca3f3488bfde7ee64"
+            },
+            {
+                "name": "达叔",
+                "desc": "大气稳重,品质沉稳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/23e8b1d3eb91450383e53a6493a381ff",
+                "vid": "23e8b1d3eb91450383e53a6493a381ff"
+            },
+            {
+                "name": "大虎",
+                "desc": "东北话男声,搞笑旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7086c70b80924b1698d977d3fe3fe7f6",
+                "vid": "7086c70b80924b1698d977d3fe3fe7f6"
+            },
+            {
+                "name": "丁明",
+                "desc": "广告男声,细腻温和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/21d19aaa7c764607b074f854b69f7333",
+                "vid": "21d19aaa7c764607b074f854b69f7333"
+            },
+            {
+                "name": "东北老铁",
+                "desc": "搞笑,解说,方言",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f3084ac779cf43e695c570b8af191256",
+                "vid": "f3084ac779cf43e695c570b8af191256"
+            },
+            {
+                "name": "抖音小哥哥",
+                "desc": "雅痞大叔",
+                "img": "https://public-platform.r2.fish.audio/coverimage/74caeedeef874dd9bfd0118df695c95b",
+                "vid": "74caeedeef874dd9bfd0118df695c95b"
+            },
+            {
+                "name": "抖音小姐姐",
+                "desc": "宣传,解说,旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/72cff9bb186d49609ce1ba65bc8c93c5",
+                "vid": "72cff9bb186d49609ce1ba65bc8c93c5"
+            },
+            {
+                "name": "芳华",
+                "desc": "情感女声,温和大气",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f6351dd7f52c45c6877e672d8e17179d",
+                "vid": "f6351dd7f52c45c6877e672d8e17179d"
+            },
+            {
+                "name": "飞龙",
+                "desc": "有磁性,成熟大叔音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/99e5b5b913964ad0b692ec365e33fb7a",
+                "vid": "99e5b5b913964ad0b692ec365e33fb7a"
+            },
+            {
+                "name": "顾姐",
+                "desc": "霸气慵懒,冷漠御姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/06d4099ee0b44968ac014098eefb95a0",
+                "vid": "06d4099ee0b44968ac014098eefb95a0"
+            },
+            {
+                "name": "顾小奇",
+                "desc": "温柔女声,情感朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ee8f23defafe46128440c082266299ff",
+                "vid": "ee8f23defafe46128440c082266299ff"
+            },
+            {
+                "name": "广西表哥",
+                "desc": "方言,解说,搞笑",
+                "img": "https://public-platform.r2.fish.audio/coverimage/84bfe4c3840b43dba98ec60c1f7053a2",
+                "vid": "84bfe4c3840b43dba98ec60c1f7053a2"
+            },
+            {
+                "name": "柜姐",
+                "desc": "亲切女声,年轻活力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2e990d1c25d848c7926371480f578ef3",
+                "vid": "2e990d1c25d848c7926371480f578ef3"
+            },
+            {
+                "name": "鸡汤哥哥",
+                "desc": "鸡汤哥哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/167b60d6d7304b65927127dedee089f6",
+                "vid": "167b60d6d7304b65927127dedee089f6"
+            },
+            {
+                "name": "鸡汤妹妹",
+                "desc": "鸡汤妹妹",
+                "img": "https://public-platform.r2.fish.audio/coverimage/87dd6fca723646e4b995f1046b039be9",
+                "vid": "87dd6fca723646e4b995f1046b039be9"
+            },
+            {
+                "name": "佳佳",
+                "desc": "粤语女声,清晰自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9b561df4c3274d768df396bd409f9886",
+                "vid": "9b561df4c3274d768df396bd409f9886"
+            },
+            {
+                "name": "姜小果",
+                "desc": "细腻自然,情感到位",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ad9717a27da2436b87c693e41f12c01c",
+                "vid": "ad9717a27da2436b87c693e41f12c01c"
+            },
+            {
+                "name": "杰力豆",
+                "desc": "治愈童声,故事朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8490d85ae5de46249da715b5b1b9fa73",
+                "vid": "8490d85ae5de46249da715b5b1b9fa73"
+            },
+            {
+                "name": "金小玉",
+                "desc": "新闻女声,视频旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5721606545f44ff5b8ccef07d89200cd",
+                "vid": "5721606545f44ff5b8ccef07d89200cd"
+            },
+            {
+                "name": "孔阳",
+                "desc": "磁性男声,成熟稳重",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9984bb6581de464caa8616d58db43bc8",
+                "vid": "9984bb6581de464caa8616d58db43bc8"
+            },
+            {
+                "name": "老李",
+                "desc": "沉稳,明亮浑厚",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c870165261d94f6a83f179e14a3d72b9",
+                "vid": "c870165261d94f6a83f179e14a3d72b9"
+            },
+            {
+                "name": "老妹",
+                "desc": "吆喝女声,东北特色口音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4309cd47dba743cc8e76c4a7e382b2d2",
+                "vid": "4309cd47dba743cc8e76c4a7e382b2d2"
+            },
+            {
+                "name": "老铁",
+                "desc": "东北老铁,抖音配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6a70572ae2f747fe8524d2450fd1ed97",
+                "vid": "6a70572ae2f747fe8524d2450fd1ed97"
+            },
+            {
+                "name": "理性姐",
+                "desc": "东北理性姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c9c170f19fc945c1b33b3f8ec9696cb0",
+                "vid": "c9c170f19fc945c1b33b3f8ec9696cb0"
+            },
+            {
+                "name": "陆离",
+                "desc": "磁性男声,故事解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/447250162d3a480b97174fd66c5b9a50",
+                "vid": "447250162d3a480b97174fd66c5b9a50"
+            },
+            {
+                "name": "吕小宁",
+                "desc": "情感播音员",
+                "img": "https://public-platform.r2.fish.audio/coverimage/daa11043fc6d474a9881f5dd41c92dab",
+                "vid": "daa11043fc6d474a9881f5dd41c92dab"
+            },
+            {
+                "name": "芒果姐姐",
+                "desc": "广告宣传,解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b12a52db0ac941b193a6ed678c0123ab",
+                "vid": "b12a52db0ac941b193a6ed678c0123ab"
+            },
+            {
+                "name": "猫小美",
+                "desc": "活力女声,自然大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9536a767f8f7416cb0e6fdf21cfae821",
+                "vid": "9536a767f8f7416cb0e6fdf21cfae821"
+            },
+            {
+                "name": "萌娃",
+                "desc": "抖音奶气萌娃",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b89ab107027246e5a7b008245a2bafe8",
+                "vid": "b89ab107027246e5a7b008245a2bafe8"
+            },
+            {
+                "name": "苗小雨",
+                "desc": "教师课件,影视解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/826e67343ab9421c8f00c3f6f7387019",
+                "vid": "826e67343ab9421c8f00c3f6f7387019"
+            },
+            {
+                "name": "木泠",
+                "desc": "知心姐姐,情感旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e870738547a34a65b6294c631742d9ca",
+                "vid": "e870738547a34a65b6294c631742d9ca"
+            },
+            {
+                "name": "沐沐",
+                "desc": "活泼女童",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d0f38c1e55674fa69db95d2bd035f93b",
+                "vid": "d0f38c1e55674fa69db95d2bd035f93b"
+            },
+            {
+                "name": "闹闹",
+                "desc": "萌萌哒,奶声奶气",
+                "img": "https://public-platform.r2.fish.audio/coverimage/665036ec1c1b48f98f17ea893bf8f529",
+                "vid": "665036ec1c1b48f98f17ea893bf8f529"
+            },
+            {
+                "name": "宁儿",
+                "desc": "可爱甜美,动听",
+                "img": "https://public-platform.r2.fish.audio/coverimage/901f2c838b334354972ea4b5320cb82f",
+                "vid": "901f2c838b334354972ea4b5320cb82f"
+            },
+            {
+                "name": "佩奇",
+                "desc": "佩奇猪",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3d34cd1bd9874c3dbec8c42fac7b39a0",
+                "vid": "3d34cd1bd9874c3dbec8c42fac7b39a0"
+            },
+            {
+                "name": "婆婆",
+                "desc": "慈祥老奶奶,情感解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/db4abf6c973f4359842f0e9629063db4",
+                "vid": "db4abf6c973f4359842f0e9629063db4"
+            },
+            {
+                "name": "齐光",
+                "desc": "影视解说,朝气少年",
+                "img": "https://public-platform.r2.fish.audio/coverimage/01c57f38187340ce89d5d2bf9033c54d",
+                "vid": "01c57f38187340ce89d5d2bf9033c54d"
+            },
+            {
+                "name": "齐光-影视",
+                "desc": "影视小帅解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/80767896af22404f906260e15e051f2e",
+                "vid": "80767896af22404f906260e15e051f2e"
+            },
+            {
+                "name": "齐美",
+                "desc": "抖音亲切女生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d9ffc35e48444f4fb6514773d3152426",
+                "vid": "d9ffc35e48444f4fb6514773d3152426"
+            },
+            {
+                "name": "齐甜",
+                "desc": "甜甜哒",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5f82e687389c425e93f857af4e916b06",
+                "vid": "5f82e687389c425e93f857af4e916b06"
+            },
+            {
+                "name": "齐雅",
+                "desc": "温文尔雅,解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2690b14bb31d496a88172494f0c7d2d8",
+                "vid": "2690b14bb31d496a88172494f0c7d2d8"
+            },
+            {
+                "name": "齐玉",
+                "desc": "通用赘婿,解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e49b9fc66f514062a95bab51770da080",
+                "vid": "e49b9fc66f514062a95bab51770da080"
+            },
+            {
+                "name": "强势妹",
+                "desc": "东北强势妹",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ba8b5dcd4ed24e3c9cf382180ba28a09",
+                "vid": "ba8b5dcd4ed24e3c9cf382180ba28a09"
+            },
+            {
+                "name": "巧薇",
+                "desc": "卖场广播,广告推销",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c55c4f3436a3468ca0bc6d2e51262a5f",
+                "vid": "c55c4f3436a3468ca0bc6d2e51262a5f"
+            },
+            {
+                "name": "青青",
+                "desc": "台湾话女声,甜美亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d2bffb1114cd48f485a5ada618eb8b70",
+                "vid": "d2bffb1114cd48f485a5ada618eb8b70"
+            },
+            {
+                "name": "擎苍",
+                "desc": "影视解说,旁白,新闻",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5c31d7aada184efb82f062a40c0ab557",
+                "vid": "5c31d7aada184efb82f062a40c0ab557"
+            },
+            {
+                "name": "绒绒",
+                "desc": "深情诵读,故事,情感播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0e06e4857c3d48a68dcf0bf0fbffef7a",
+                "vid": "0e06e4857c3d48a68dcf0bf0fbffef7a"
+            },
+            {
+                "name": "儒雅哥",
+                "desc": "知识讲解,韵味解说feel",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d5b9ef0487fb48198f6ca3ac84158298",
+                "vid": "d5b9ef0487fb48198f6ca3ac84158298"
+            },
+            {
+                "name": "瑞琳",
+                "desc": "大方自然,悠扬婉转",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d46665bb810f44f8a0fdd1a8921fd05d",
+                "vid": "d46665bb810f44f8a0fdd1a8921fd05d"
+            },
+            {
+                "name": "若兮",
+                "desc": "温柔,亲切随和(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c4c3fb8eb2024f1b99a6964542c19091",
+                "vid": "c4c3fb8eb2024f1b99a6964542c19091"
+            },
+            {
+                "name": "若瑜",
+                "desc": "情感视频,诗歌文朗诵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb2379cdd08045acb5ab3de49e48cd06",
+                "vid": "cb2379cdd08045acb5ab3de49e48cd06"
+            },
+            {
+                "name": "姗姗",
+                "desc": "粤语,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d9918b40fc2c4692bef41660668968cf",
+                "vid": "d9918b40fc2c4692bef41660668968cf"
+            },
+            {
+                "name": "思诚",
+                "desc": "温润大气,感染力强(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f7efcce40e5c40e1bac78642f79f8e55",
+                "vid": "f7efcce40e5c40e1bac78642f79f8e55"
+            },
+            {
+                "name": "思佳",
+                "desc": "自然,温婉随和(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f3d287fade83464ba9b43f2186062189",
+                "vid": "f3d287fade83464ba9b43f2186062189"
+            },
+            {
+                "name": "思婧",
+                "desc": "干脆利落,成熟知性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3451604ae27543c0a75b0b8e74dd6d77",
+                "vid": "3451604ae27543c0a75b0b8e74dd6d77"
+            },
+            {
+                "name": "思琪",
+                "desc": "柔美,知性(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f5d5488a010f472b80bf3689c40c0cfd",
+                "vid": "f5d5488a010f472b80bf3689c40c0cfd"
+            },
+            {
+                "name": "思彤",
+                "desc": "童声,温馨悦耳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/782449adbb1e4e6fbc4eee0fd66206b6",
+                "vid": "782449adbb1e4e6fbc4eee0fd66206b6"
+            },
+            {
+                "name": "思玉",
+                "desc": "台腔,清晰自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9c8a9617c5864768a037f2e8d87a67ce",
+                "vid": "9c8a9617c5864768a037f2e8d87a67ce"
+            },
+            {
+                "name": "思悦",
+                "desc": "温柔,悦耳(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9753a2adb92141b188e76be6e3502825",
+                "vid": "9753a2adb92141b188e76be6e3502825"
+            },
+            {
+                "name": "桃子",
+                "desc": "粤语女声,自然随和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0be0d0f04a4d4ebd9aaff611e69bf408",
+                "vid": "0be0d0f04a4d4ebd9aaff611e69bf408"
+            },
+            {
+                "name": "甜甜老师",
+                "desc": "教育,知性姐姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2a03750dd4944ab683f3c747b41785d1",
+                "vid": "2a03750dd4944ab683f3c747b41785d1"
+            },
+            {
+                "name": "万艾",
+                "desc": "粤语女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b4eae7305df74b1984301d7d0a182dd7",
+                "vid": "b4eae7305df74b1984301d7d0a182dd7"
+            },
+            {
+                "name": "万里",
+                "desc": "情感男声,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f1df2a87e48f47d9a08b8b137446a960",
+                "vid": "f1df2a87e48f47d9a08b8b137446a960"
+            },
+            {
+                "name": "卫小问",
+                "desc": "温暖知性,自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a532dacf67804b449351ab376c1c9a99",
+                "vid": "a532dacf67804b449351ab376c1c9a99"
+            },
+            {
+                "name": "温柔小哥",
+                "desc": "温柔,超自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4fad245d4a2f48d1bef4a06d69c573eb",
+                "vid": "4fad245d4a2f48d1bef4a06d69c573eb"
+            },
+            {
+                "name": "嘻哈歌手（lovingcall）",
+                "desc": "嘻哈歌手（lovingcall）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b29fbd25836a49579009b41eeb20326c",
+                "vid": "b29fbd25836a49579009b41eeb20326c"
+            },
+            {
+                "name": "嘻哈歌手（remix）",
+                "desc": "嘻哈歌手（remix）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6fec67dd7f4246978991c668899745f7",
+                "vid": "6fec67dd7f4246978991c668899745f7"
+            },
+            {
+                "name": "嘻哈歌手",
+                "desc": "嘻哈歌手",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6f745348408a45a5a743f8e35bcba7b6",
+                "vid": "6f745348408a45a5a743f8e35bcba7b6"
+            },
+            {
+                "name": "小北",
+                "desc": "女童声,甜美柔和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d67e54c7db984922ade5b59393d51417",
+                "vid": "d67e54c7db984922ade5b59393d51417"
+            },
+            {
+                "name": "小风",
+                "desc": "成熟稳重,有磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/305b415b97424c69bcbbc26c2a486883",
+                "vid": "305b415b97424c69bcbbc26c2a486883"
+            },
+            {
+                "name": "小刚",
+                "desc": "温润,感染力强(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7d0f3dfc88f74255b4b16cbe2621ecf1",
+                "vid": "7d0f3dfc88f74255b4b16cbe2621ecf1"
+            },
+            {
+                "name": "小美",
+                "desc": "大气,利落干脆(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/995ba45fcefd44c6a51f0be07c2fcfec",
+                "vid": "995ba45fcefd44c6a51f0be07c2fcfec"
+            },
+            {
+                "name": "小梦",
+                "desc": "温情,娓娓道来(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7216fae7f8384a9a8b402fb038d1ee03",
+                "vid": "7216fae7f8384a9a8b402fb038d1ee03"
+            },
+            {
+                "name": "小苹果",
+                "desc": "可爱女童",
+                "img": "https://public-platform.r2.fish.audio/coverimage/95562cc3fd0a46b093b30588409e1e7a",
+                "vid": "95562cc3fd0a46b093b30588409e1e7a"
+            },
+            {
+                "name": "小威",
+                "desc": "自然亲切,流畅(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e2f29347e5b5460abf2cba7f68c4c5dc",
+                "vid": "e2f29347e5b5460abf2cba7f68c4c5dc"
+            },
+            {
+                "name": "小仙",
+                "desc": "亲切女声,直播解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6363b1d222174ae6944505096a21aae4",
+                "vid": "6363b1d222174ae6944505096a21aae4"
+            },
+            {
+                "name": "小小甜",
+                "desc": "清甜奶音,可爱机灵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e345df07ad5b4f259906bc0a327a0160",
+                "vid": "e345df07ad5b4f259906bc0a327a0160"
+            },
+            {
+                "name": "小小萱",
+                "desc": "情感女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/685edbf6a06e4a3d87add13c630b905f",
+                "vid": "685edbf6a06e4a3d87add13c630b905f"
+            },
+            {
+                "name": "小雪",
+                "desc": "温柔,自然亲切(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/30f5bb3c9f284ee6a5bcf3e7051260f2",
+                "vid": "30f5bb3c9f284ee6a5bcf3e7051260f2"
+            },
+            {
+                "name": "小艺",
+                "desc": "洪亮大气,感染力强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/17314f5f93d5435db3d1880f8fa1ae08",
+                "vid": "17314f5f93d5435db3d1880f8fa1ae08"
+            },
+            {
+                "name": "小语",
+                "desc": "成熟稳重,有磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/46c2498156ec43f682d495dd6cc6f238",
+                "vid": "46c2498156ec43f682d495dd6cc6f238"
+            },
+            {
+                "name": "小玥(四川)",
+                "desc": "四川话,有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3ca16dae964f4b48b198a0c47ee66a07",
+                "vid": "3ca16dae964f4b48b198a0c47ee66a07"
+            },
+            {
+                "name": "小云",
+                "desc": "自然,知性随和(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/96a4710bcccb449a8b5da180e7053244",
+                "vid": "96a4710bcccb449a8b5da180e7053244"
+            },
+            {
+                "name": "小泽",
+                "desc": "湖南重口音男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2facdcf8a512468583b181f100bf2065",
+                "vid": "2facdcf8a512468583b181f100bf2065"
+            },
+            {
+                "name": "晓北",
+                "desc": "东北话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9e75a942eacc4b79bf58303458f98d9e",
+                "vid": "9e75a942eacc4b79bf58303458f98d9e"
+            },
+            {
+                "name": "晓辰",
+                "desc": "爆款推文,解说宣传",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d10b388dde3d4715b0c2c045b935f53a",
+                "vid": "d10b388dde3d4715b0c2c045b935f53a"
+            },
+            {
+                "name": "晓梦",
+                "desc": "年轻活力女青年",
+                "img": "https://public-platform.r2.fish.audio/coverimage/55b8a77225e8423bbde90e0b9c1a85c3",
+                "vid": "55b8a77225e8423bbde90e0b9c1a85c3"
+            },
+            {
+                "name": "晓妮",
+                "desc": "陕西话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4a9a99e0e6d149f4b939046ca7fe8ad2",
+                "vid": "4a9a99e0e6d149f4b939046ca7fe8ad2"
+            },
+            {
+                "name": "晓双",
+                "desc": "儿童音,解说,动漫",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3831e889273c417f9c44c6f324ce0525",
+                "vid": "3831e889273c417f9c44c6f324ce0525"
+            },
+            {
+                "name": "晓妍",
+                "desc": "中国纪录片解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/852e25b03bf94fcd9b8e090e03212619",
+                "vid": "852e25b03bf94fcd9b8e090e03212619"
+            },
+            {
+                "name": "晓颜",
+                "desc": "解说,广告宣传,客服",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4bfd58b18cd0447899a04e39495a5457",
+                "vid": "4bfd58b18cd0447899a04e39495a5457"
+            },
+            {
+                "name": "晓伊",
+                "desc": "萝莉女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4d1737d569ca45b0998be6061e6b0c43",
+                "vid": "4d1737d569ca45b0998be6061e6b0c43"
+            },
+            {
+                "name": "晓甄",
+                "desc": "女青年,情绪主播",
+                "img": "https://public-platform.r2.fish.audio/coverimage/948c4071dcbd4ba1990abe9ef6b638c9",
+                "vid": "948c4071dcbd4ba1990abe9ef6b638c9"
+            },
+            {
+                "name": "休凯",
+                "desc": "悬疑解说,通用旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/91e4a52afe0f4ab4b2e90ab0f658fdff",
+                "vid": "91e4a52afe0f4ab4b2e90ab0f658fdff"
+            },
+            {
+                "name": "亚群",
+                "desc": "卖场广播,广告推销",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ee59599ee30941bf9fefd5bd8c726749",
+                "vid": "ee59599ee30941bf9fefd5bd8c726749"
+            },
+            {
+                "name": "扬波",
+                "desc": "粤语男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4b97d40d1df948e2b6e86cbb907dbc56",
+                "vid": "4b97d40d1df948e2b6e86cbb907dbc56"
+            },
+            {
+                "name": "阳光哥",
+                "desc": "抖音阳光男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0d804eda35494a18b0aaefeefc9176ba",
+                "vid": "0d804eda35494a18b0aaefeefc9176ba"
+            },
+            {
+                "name": "伊娜",
+                "desc": "自然,知性随和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/146baa3cc4544a4fa0fef39f6bdc7f47",
+                "vid": "146baa3cc4544a4fa0fef39f6bdc7f47"
+            },
+            {
+                "name": "依依",
+                "desc": "撒娇台湾腔",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a9af9b3cf316411e956db5b72d37d702",
+                "vid": "a9af9b3cf316411e956db5b72d37d702"
+            },
+            {
+                "name": "悦儿",
+                "desc": "儿童剧女声,故事书朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e5b84ae7490145a09ab8499cd6fdf300",
+                "vid": "e5b84ae7490145a09ab8499cd6fdf300"
+            },
+            {
+                "name": "云登",
+                "desc": "河南话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/25c2d1c7f664471aa3383c32fa860669",
+                "vid": "25c2d1c7f664471aa3383c32fa860669"
+            },
+            {
+                "name": "云枫",
+                "desc": "自然流畅,亲和感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b817b956da4d467a844bfd4b6a74910a",
+                "vid": "b817b956da4d467a844bfd4b6a74910a"
+            },
+            {
+                "name": "云涵",
+                "desc": "自然,超级新人",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4e4b26cf0088465c9b1413144dd89729",
+                "vid": "4e4b26cf0088465c9b1413144dd89729"
+            },
+            {
+                "name": "云皓",
+                "desc": "广告男声,有磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ba7d5502a71f4eddbf56d0253b5c3ea3",
+                "vid": "ba7d5502a71f4eddbf56d0253b5c3ea3"
+            },
+            {
+                "name": "云健",
+                "desc": "体育新闻,解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cf7fb8b9ddb2464095ca2740c0c41bc5",
+                "vid": "cf7fb8b9ddb2464095ca2740c0c41bc5"
+            },
+            {
+                "name": "云熙",
+                "desc": "四川话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8e394ec1ee3d4eeaaa80b2e3356c5608",
+                "vid": "8e394ec1ee3d4eeaaa80b2e3356c5608"
+            },
+            {
+                "name": "云夏",
+                "desc": "男童,旁白解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f7ebed344dfd4def8ea68c79a0ddad80",
+                "vid": "f7ebed344dfd4def8ea68c79a0ddad80"
+            },
+            {
+                "name": "云翔",
+                "desc": "山东话",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e8d280138b8843ddaaaea96a80488c9a",
+                "vid": "e8d280138b8843ddaaaea96a80488c9a"
+            },
+            {
+                "name": "云小龙",
+                "desc": "自然大气,有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/de185f6368644962a7301986e3c768d8",
+                "vid": "de185f6368644962a7301986e3c768d8"
+            },
+            {
+                "name": "云小曼",
+                "desc": "温柔流畅、自然悦耳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fa8ff7e37e084a57afc1e5684504c81d",
+                "vid": "fa8ff7e37e084a57afc1e5684504c81d"
+            },
+            {
+                "name": "云小宁",
+                "desc": "很知性、自然悦耳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4758dafa85d54ae59f6396f5ad1a86d4",
+                "vid": "4758dafa85d54ae59f6396f5ad1a86d4"
+            },
+            {
+                "name": "云小奇",
+                "desc": "大气稳重、自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1afaf3151e654f80b8f4bd7f9997215d",
+                "vid": "1afaf3151e654f80b8f4bd7f9997215d"
+            },
+            {
+                "name": "云小晚",
+                "desc": "自然亲切,热情稳重",
+                "img": "https://public-platform.r2.fish.audio/coverimage/161c9e1c448047b29dfa9d2a939b34c6",
+                "vid": "161c9e1c448047b29dfa9d2a939b34c6"
+            },
+            {
+                "name": "云小欣",
+                "desc": "大气随和、富有力量",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ec2d13c054834aa3a17ea9828a81212a",
+                "vid": "ec2d13c054834aa3a17ea9828a81212a"
+            },
+            {
+                "name": "云小叶",
+                "desc": "知性温和、自然大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bb9a12323d624739a4a504fedf7a9bcd",
+                "vid": "bb9a12323d624739a4a504fedf7a9bcd"
+            },
+            {
+                "name": "云泽",
+                "desc": "有磁性,日常解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9d4f0a06fbce4ebb8dcf194b915a3009",
+                "vid": "9d4f0a06fbce4ebb8dcf194b915a3009"
+            },
+            {
+                "name": "在宇",
+                "desc": "温暖阳光,朝气少年",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c0ab2603e0d94e1d9123259a483f6e71",
+                "vid": "c0ab2603e0d94e1d9123259a483f6e71"
+            },
+            {
+                "name": "扎扎灰",
+                "desc": "扎扎灰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/390714a02689485d8c51ff06b91df0bf",
+                "vid": "390714a02689485d8c51ff06b91df0bf"
+            },
+            {
+                "name": "张厨",
+                "desc": "舌尖男声,自然磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e11cce65554b403db38d452bf3af2329",
+                "vid": "e11cce65554b403db38d452bf3af2329"
+            },
+            {
+                "name": "张小雅",
+                "desc": "情绪到位小姐姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ad359b783bd24ceb9e140bab463659b2",
+                "vid": "ad359b783bd24ceb9e140bab463659b2"
+            },
+            {
+                "name": "知贝",
+                "desc": "多情感,活力男童声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/be0efc706ffe4edfaeafb2609ba67f8d",
+                "vid": "be0efc706ffe4edfaeafb2609ba67f8d"
+            },
+            {
+                "name": "知德",
+                "desc": "知性男声,亲切友善",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a0478c48db7f45278dbe77105e1c35e0",
+                "vid": "a0478c48db7f45278dbe77105e1c35e0"
+            },
+            {
+                "name": "知飞",
+                "desc": "激昂解说,成熟稳重",
+                "img": "https://public-platform.r2.fish.audio/coverimage/561ac14f70cd4b56a7c77fb3103b68e2",
+                "vid": "561ac14f70cd4b56a7c77fb3103b68e2"
+            },
+            {
+                "name": "知佳",
+                "desc": "标准女声,声音细腻",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2458fa8f4e7d4f38a91b7ec237ade342",
+                "vid": "2458fa8f4e7d4f38a91b7ec237ade342"
+            },
+            {
+                "name": "知米",
+                "desc": "多情感,亲和女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f5b0291c959745d68d9088d40aa966cc",
+                "vid": "f5b0291c959745d68d9088d40aa966cc"
+            },
+            {
+                "name": "知妙",
+                "desc": "多情感,亲和女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/30e0a92726c242f290ad9501e85c3da8",
+                "vid": "30e0a92726c242f290ad9501e85c3da8"
+            },
+            {
+                "name": "知倩",
+                "desc": "资讯女声,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0abdc0d4a0714346b98e216e198f2454",
+                "vid": "0abdc0d4a0714346b98e216e198f2454"
+            },
+            {
+                "name": "知青",
+                "desc": "甜美可爱女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/983170e760f54bedb8158e245dda8d09",
+                "vid": "983170e760f54bedb8158e245dda8d09"
+            },
+            {
+                "name": "知甜",
+                "desc": "多情感,甜美女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8d15f539ec9644039eb350dd3dd4b102",
+                "vid": "8d15f539ec9644039eb350dd3dd4b102"
+            },
+            {
+                "name": "知燕",
+                "desc": "多情感,直播女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b9ebbdbd017b4a5fbf547b81f7a415e5",
+                "vid": "b9ebbdbd017b4a5fbf547b81f7a415e5"
+            },
+            {
+                "name": "致远",
+                "desc": "台腔,踏实沉稳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d0542e279b6a4c73bdb124db8d4060b9",
+                "vid": "d0542e279b6a4c73bdb124db8d4060b9"
+            },
+            {
+                "name": "智蓓",
+                "desc": "客服女声,知性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/218f6918e5114e8e9d8fe0562b2ad94d",
+                "vid": "218f6918e5114e8e9d8fe0562b2ad94d"
+            },
+            {
+                "name": "智川",
+                "desc": "四川女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2dd14083e5ff4938b1413c648ac2d23e",
+                "vid": "2dd14083e5ff4938b1413c648ac2d23e"
+            },
+            {
+                "name": "智丹",
+                "desc": "干脆利落,知性商务",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a7af3da7b750436a81b2b0e7e9a572ec",
+                "vid": "a7af3da7b750436a81b2b0e7e9a572ec"
+            },
+            {
+                "name": "智方",
+                "desc": "阅读,视频解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d79ec16387fd40ef8717e24e205b2abd",
+                "vid": "d79ec16387fd40ef8717e24e205b2abd"
+            },
+            {
+                "name": "智芳",
+                "desc": "客服女声,自然流畅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d51f2af5a4b84be09c3bc12745998ef8",
+                "vid": "d51f2af5a4b84be09c3bc12745998ef8"
+            },
+            {
+                "name": "智刚",
+                "desc": "标准男声,新闻播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/091a985f976e48eab4a64bcb7e707865",
+                "vid": "091a985f976e48eab4a64bcb7e707865"
+            },
+            {
+                "name": "智皓",
+                "desc": "影视解说,短视频旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/507f367534674ebe918d6afdd5ec070e",
+                "vid": "507f367534674ebe918d6afdd5ec070e"
+            },
+            {
+                "name": "智虹",
+                "desc": "新闻,解说,阅读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b91d0e40cba24dcebb07fc91779c481b",
+                "vid": "b91d0e40cba24dcebb07fc91779c481b"
+            },
+            {
+                "name": "智华",
+                "desc": "磁性温和,亲切友善",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8c3b07c127a41209c4731efd20e3831",
+                "vid": "a8c3b07c127a41209c4731efd20e3831"
+            },
+            {
+                "name": "智辉",
+                "desc": "标准男声,发音流畅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b5aaab4307724dccb599ed999163ef87",
+                "vid": "b5aaab4307724dccb599ed999163ef87"
+            },
+            {
+                "name": "智洁",
+                "desc": "知性女声,大方自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b9ad5e0e71dd4dabbc6caf67ba5a9012",
+                "vid": "b9ad5e0e71dd4dabbc6caf67ba5a9012"
+            },
+            {
+                "name": "智靖",
+                "desc": "低音炮,有磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8d468aeeacb4a808910b4cb1812342b",
+                "vid": "a8d468aeeacb4a808910b4cb1812342b"
+            },
+            {
+                "name": "智凯",
+                "desc": "新闻,视频解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ff4d3301f01a4fdbbdb54f34a7d860e3",
+                "vid": "ff4d3301f01a4fdbbdb54f34a7d860e3"
+            },
+            {
+                "name": "智柯",
+                "desc": "磁性男声,自然大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c7d6f93aa7a740ab83c18e7ade9360c4",
+                "vid": "c7d6f93aa7a740ab83c18e7ade9360c4"
+            },
+            {
+                "name": "智奎",
+                "desc": "标准男声,成熟稳重",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ddd0cd04c2634e39834e3a4efc160185",
+                "vid": "ddd0cd04c2634e39834e3a4efc160185"
+            },
+            {
+                "name": "智莉",
+                "desc": "标准女声,自然清晰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/635b60381b4c46018acf5fea7704ae98",
+                "vid": "635b60381b4c46018acf5fea7704ae98"
+            },
+            {
+                "name": "智莲",
+                "desc": "客服女声,温柔亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b0bb962ec79d4651a54e8693c9c0db60",
+                "vid": "b0bb962ec79d4651a54e8693c9c0db60"
+            },
+            {
+                "name": "智林",
+                "desc": "东北男声,幽默风趣",
+                "img": "https://public-platform.r2.fish.audio/coverimage/61920a10ad2d4d7bb2b60fe6a5ed8cc8",
+                "vid": "61920a10ad2d4d7bb2b60fe6a5ed8cc8"
+            },
+            {
+                "name": "智聆",
+                "desc": "利落且大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/10ab6cfc55ba4a55afd5d156726095e2",
+                "vid": "10ab6cfc55ba4a55afd5d156726095e2"
+            },
+            {
+                "name": "智梅",
+                "desc": "资讯女声,自然大方",
+                "img": "https://public-platform.r2.fish.audio/coverimage/219f3436d2f843448d80c0cb5b11a418",
+                "vid": "219f3436d2f843448d80c0cb5b11a418"
+            },
+            {
+                "name": "智美",
+                "desc": "悦耳且随和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/69cd6e9307f64d9eb311bd09b02838f6",
+                "vid": "69cd6e9307f64d9eb311bd09b02838f6"
+            },
+            {
+                "name": "智萌",
+                "desc": "男童,软萌可爱,天真俏皮",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d626ff9cbb3a4515971f89fb41d7fb84",
+                "vid": "d626ff9cbb3a4515971f89fb41d7fb84"
+            },
+            {
+                "name": "智娜",
+                "desc": "温柔,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c66270ba1ebc46ee93d9373a8f4d8476",
+                "vid": "c66270ba1ebc46ee93d9373a8f4d8476"
+            },
+            {
+                "name": "智宁",
+                "desc": "流畅舒适",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fd4c1e3379394f63b95b43ec1d7fde1e",
+                "vid": "fd4c1e3379394f63b95b43ec1d7fde1e"
+            },
+            {
+                "name": "智琪",
+                "desc": "自然大方,年轻活力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/85d0d999f8b348c2b06bf64ce53af05b",
+                "vid": "85d0d999f8b348c2b06bf64ce53af05b"
+            },
+            {
+                "name": "智蓉",
+                "desc": "自然随和,有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f32662d41ae543bc9e50db382be00413",
+                "vid": "f32662d41ae543bc9e50db382be00413"
+            },
+            {
+                "name": "智瑞",
+                "desc": "新闻男声,知性自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9d28df7d581f4865bab3a121a3753ba2",
+                "vid": "9d28df7d581f4865bab3a121a3753ba2"
+            },
+            {
+                "name": "智甜",
+                "desc": "萝莉,可爱机灵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7cf2ce4e144c4c3680b542dbe6964101",
+                "vid": "7cf2ce4e144c4c3680b542dbe6964101"
+            },
+            {
+                "name": "智彤",
+                "desc": "粤语发音,温柔自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/dac1aafffa72462aadbbbb8adcbbe11e",
+                "vid": "dac1aafffa72462aadbbbb8adcbbe11e"
+            },
+            {
+                "name": "智薇",
+                "desc": "大气利落,自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/626de7c2f4d04e96a7222b365eabf257",
+                "vid": "626de7c2f4d04e96a7222b365eabf257"
+            },
+            {
+                "name": "智味",
+                "desc": "美食男声,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7e97ebd6fdf242c7943af64d82f6a182",
+                "vid": "7e97ebd6fdf242c7943af64d82f6a182"
+            },
+            {
+                "name": "智希",
+                "desc": "温柔女声,情感朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6f7136e58fbf41e7a91effbaec724732",
+                "vid": "6f7136e58fbf41e7a91effbaec724732"
+            },
+            {
+                "name": "智萱",
+                "desc": "新闻女声,视频解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7986d32c250046958523235b7b0a41ae",
+                "vid": "7986d32c250046958523235b7b0a41ae"
+            },
+            {
+                "name": "智言",
+                "desc": "自然流畅,富有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4e4964ab5c364e6c9aa984bf25052ae0",
+                "vid": "4e4964ab5c364e6c9aa984bf25052ae0"
+            },
+            {
+                "name": "智燕",
+                "desc": "大气动人,自然流畅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/74ffe9aae77e4f70b7087e6b87801c14",
+                "vid": "74ffe9aae77e4f70b7087e6b87801c14"
+            },
+            {
+                "name": "智依",
+                "desc": "自然流畅,情感朗读",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8ae48f0d8c664347a6ed50c5b4c34659",
+                "vid": "8ae48f0d8c664347a6ed50c5b4c34659"
+            },
+            {
+                "name": "智优",
+                "desc": "阅读,视频解说",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b01a1d28b6e645cf876f59c75142ea78",
+                "vid": "b01a1d28b6e645cf876f59c75142ea78"
+            },
+            {
+                "name": "智友",
+                "desc": "自然大气,有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/154a2a308a934a0c8922948f541a89a7",
+                "vid": "154a2a308a934a0c8922948f541a89a7"
+            },
+            {
+                "name": "智瑜",
+                "desc": "成熟稳重,感染力强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8b97248fd4424af58cc06a27168f9833",
+                "vid": "8b97248fd4424af58cc06a27168f9833"
+            },
+            {
+                "name": "智云",
+                "desc": "大气浑厚,稳重磁性",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4e680c567cca410fb231b8d0ac2a38c3",
+                "vid": "4e680c567cca410fb231b8d0ac2a38c3"
+            },
+            {
+                "name": "智芸",
+                "desc": "智芸自然随和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/103dce01dddf4dcb9aaab05cc32d527b",
+                "vid": "103dce01dddf4dcb9aaab05cc32d527b"
+            },
+            {
+                "name": "钟灵",
+                "desc": "甜美女声,自然亲切",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f32eb5a60696466187fffb2dbc8562ea",
+                "vid": "f32eb5a60696466187fffb2dbc8562ea"
+            },
+            {
+                "name": "重庆小伙",
+                "desc": "重庆小说,搞笑",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3d2c7a07f3de462bac57301010933465",
+                "vid": "3d2c7a07f3de462bac57301010933465"
+            },
+            {
+                "name": "子欣",
+                "desc": "粤语女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0bbdf36f6e2e434b9ab781a7d433dd64",
+                "vid": "0bbdf36f6e2e434b9ab781a7d433dd64"
+            },
+            {
+                "name": "Lydia",
+                "desc": "美中双语,亲切自然(中英)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/eda60d8499fe482bb586a557feb4303f",
+                "vid": "eda60d8499fe482bb586a557feb4303f"
+            },
+            {
+                "name": "Rosa",
+                "desc": "自然女声,年轻时尚",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c5a3c041321a4d708891ea31d2d66b9d",
+                "vid": "c5a3c041321a4d708891ea31d2d66b9d"
+            },
+            {
+                "name": "Stanley",
+                "desc": "沉稳男声,有感染力",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d250925bf82a46639f4c3525136bff6b",
+                "vid": "d250925bf82a46639f4c3525136bff6b"
+            },
+            {
+                "name": "Stella",
+                "desc": "知性女声,大方自然",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0d6d96aace414f7f99f96b22a9b6340a",
+                "vid": "0d6d96aace414f7f99f96b22a9b6340a"
+            },
+            {
+                "name": "86版唐僧",
+                "desc": "我是86版唐僧",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c7e305a45ed84b11b6bf0c575bf9de83",
+                "vid": "c7e305a45ed84b11b6bf0c575bf9de83"
+            },
+            {
+                "name": "ACE洛天依",
+                "desc": "我是洛天依",
+                "img": "https://public-platform.r2.fish.audio/coverimage/316d6f13e7334295bfc07fed040efff2",
+                "vid": "316d6f13e7334295bfc07fed040efff2"
+            },
+            {
+                "name": "AD学姐",
+                "desc": "UP主AD学姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7f92f8afb8ec43bf81429cc1c9199cb1",
+                "vid": "7f92f8afb8ec43bf81429cc1c9199cb1"
+            },
+            {
+                "name": "AI步非烟",
+                "desc": "步非烟 音声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ad1385dc137145bf93e95a6272fbb34a",
+                "vid": "ad1385dc137145bf93e95a6272fbb34a"
+            },
+            {
+                "name": "b站药儿哟",
+                "desc": "UP主药儿哟",
+                "img": "https://public-platform.r2.fish.audio/coverimage/897e689c5ca24aba96b41f9ab2e53943",
+                "vid": "897e689c5ca24aba96b41f9ab2e53943"
+            },
+            {
+                "name": "DongDong羊",
+                "desc": "DongDong羊",
+                "img": "https://public-platform.r2.fish.audio/coverimage/40f85609f239423fa5bef5eff353653f",
+                "vid": "40f85609f239423fa5bef5eff353653f"
+            },
+            {
+                "name": "fariy绝区零",
+                "desc": "绝区零人物fariy",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c766daff0c3e48f8bc6c9c4cc7092504",
+                "vid": "c766daff0c3e48f8bc6c9c4cc7092504"
+            },
+            {
+                "name": "G&B耐啃王Barry",
+                "desc": "Hello🤔 I think I got the attention of the ship over here🤓👆 I can lower this plantform and help us down here😏 Hold tight untill I can bring this plantform back up😤 Get on the platform!😱 Ehu Auahhh😫😫😫",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8f50f03c9b96457295906ac1b05de1d3",
+                "vid": "8f50f03c9b96457295906ac1b05de1d3"
+            },
+            {
+                "name": "Hanser（憨色）",
+                "desc": "UP主憨色",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4effce4b5d4e48d19d4ef2414629dd46",
+                "vid": "4effce4b5d4e48d19d4ef2414629dd46"
+            },
+            {
+                "name": "SP御姐音",
+                "desc": "SP御姐音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9e03586a09ba41a298d7557732ed267c",
+                "vid": "9e03586a09ba41a298d7557732ed267c"
+            },
+            {
+                "name": "阿波尼亚",
+                "desc": "崩坏3阿波尼亚",
+                "img": "https://public-platform.r2.fish.audio/coverimage/95d1f91e06f24d0ca6501bc4e150180c",
+                "vid": "95d1f91e06f24d0ca6501bc4e150180c"
+            },
+            {
+                "name": "阿存",
+                "desc": "蛋仔派对阿存",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ba916e343cab491f99b4b3ea4b3fbf74",
+                "vid": "ba916e343cab491f99b4b3ea4b3fbf74"
+            },
+            {
+                "name": "阿罗娜",
+                "desc": "蔚蓝档案阿罗娜",
+                "img": "https://public-platform.r2.fish.audio/coverimage/13cb77b6903b481b95b73a8560561c10",
+                "vid": "13cb77b6903b481b95b73a8560561c10"
+            },
+            {
+                "name": "阿米娅中文",
+                "desc": "明日方舟阿米娅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0341a99768994ee494ab08f98fbf4cef",
+                "vid": "0341a99768994ee494ab08f98fbf4cef"
+            },
+            {
+                "name": "阿楠",
+                "desc": "阿楠anan",
+                "img": "https://public-platform.r2.fish.audio/coverimage/428ae0014ca24620b166661ed9c51412",
+                "vid": "428ae0014ca24620b166661ed9c51412"
+            },
+            {
+                "name": "阿奇",
+                "desc": "阿奇",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1872d758e19b43199f18cd4d795bd48a",
+                "vid": "1872d758e19b43199f18cd4d795bd48a"
+            },
+            {
+                "name": "阿梓",
+                "desc": "UP主阿梓",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c2a6125240f343498e26a9cf38db87b7",
+                "vid": "c2a6125240f343498e26a9cf38db87b7"
+            },
+            {
+                "name": "艾尔海森",
+                "desc": "原神艾尔海森",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3154aa5cfb3841089a77bf6a904b3f90",
+                "vid": "3154aa5cfb3841089a77bf6a904b3f90"
+            },
+            {
+                "name": "艾克",
+                "desc": "英雄联盟艾克",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d5d96f9ab4724e70be65928f544d2e22",
+                "vid": "d5d96f9ab4724e70be65928f544d2e22"
+            },
+            {
+                "name": "艾莲·乔",
+                "desc": "绝区零艾莲·乔",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ba877ee323214d8d837c9aa030c5f7c3",
+                "vid": "ba877ee323214d8d837c9aa030c5f7c3"
+            },
+            {
+                "name": "艾丝妲",
+                "desc": "崩坏：星穹铁道艾丝妲",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9bf9ec2b27954efdaf516e3019bddaa5",
+                "vid": "9bf9ec2b27954efdaf516e3019bddaa5"
+            },
+            {
+                "name": "爱丽丝",
+                "desc": "爱丽丝梦游仙境爱丽丝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb8b46583a164a95b21d52cb6a75752d",
+                "vid": "cb8b46583a164a95b21d52cb6a75752d"
+            },
+            {
+                "name": "爱丽丝（中配）",
+                "desc": "爱丽丝梦游仙境爱丽丝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e488ebeadd83496b97a3cd472dcd04ab",
+                "vid": "e488ebeadd83496b97a3cd472dcd04ab"
+            },
+            {
+                "name": "爱丽丝呀",
+                "desc": "超级可爱的爱丽丝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/41df3243764641579961f224eb9317bc",
+                "vid": "41df3243764641579961f224eb9317bc"
+            },
+            {
+                "name": "爱莉希雅",
+                "desc": "崩坏3爱莉希雅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/aca922eff5f0446fbfd395fe03e48f35",
+                "vid": "aca922eff5f0446fbfd395fe03e48f35"
+            },
+            {
+                "name": "安卡希雅",
+                "desc": "尘白禁区安卡希雅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/30b88588103c481b8bce7a8e2958bd03",
+                "vid": "30b88588103c481b8bce7a8e2958bd03"
+            },
+            {
+                "name": "安小晴姐",
+                "desc": "凯西娅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1202651a4f1f42b986ebcc6840d2c067",
+                "vid": "1202651a4f1f42b986ebcc6840d2c067"
+            },
+            {
+                "name": "安小晴姐",
+                "desc": "赛博朋克",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4c7c61af2e9c4abfb3db3f7f939ab377",
+                "vid": "4c7c61af2e9c4abfb3db3f7f939ab377"
+            },
+            {
+                "name": "安小晴姐",
+                "desc": "安小晴「四川女声」",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8320e5cbc0742948e1e214df7ecc657",
+                "vid": "a8320e5cbc0742948e1e214df7ecc657"
+            },
+            {
+                "name": "八重神子",
+                "desc": "原神八重神子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a0225df6fc414744b57821a25d625a96",
+                "vid": "a0225df6fc414744b57821a25d625a96"
+            },
+            {
+                "name": "白洲梓（中配）",
+                "desc": "蔚蓝档案白洲梓",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c28c913cc32e4691a144a2b2cea0de3a",
+                "vid": "c28c913cc32e4691a144a2b2cea0de3a"
+            },
+            {
+                "name": "白子",
+                "desc": "蔚蓝档案白子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fbe3801050654edfa0ac10aae49fc2dc",
+                "vid": "fbe3801050654edfa0ac10aae49fc2dc"
+            },
+            {
+                "name": "白子(中配)",
+                "desc": "蔚蓝档案白子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d80e416326984efd895c9cba57f45e0e",
+                "vid": "d80e416326984efd895c9cba57f45e0e"
+            },
+            {
+                "name": "包包大人",
+                "desc": "喜羊羊与灰太狼包包大人",
+                "img": "https://public-platform.r2.fish.audio/coverimage/34326bc762f043deb98886fd40a897bb",
+                "vid": "34326bc762f043deb98886fd40a897bb"
+            },
+            {
+                "name": "背影纪录",
+                "desc": "NBA背影纪录片",
+                "img": "https://public-platform.r2.fish.audio/coverimage/18acf6dc253141529848533c22db5bb1",
+                "vid": "18acf6dc253141529848533c22db5bb1"
+            },
+            {
+                "name": "冰糖IO",
+                "desc": "冰糖IO是一名虚拟主播主要活跃在bilibili",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3cea24d91ff44b2aa3730a03d781e64c",
+                "vid": "3cea24d91ff44b2aa3730a03d781e64c"
+            },
+            {
+                "name": "波提欧",
+                "desc": "崩坏：星穹铁道波提欧",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8d83d2d704e74b24903f8fe62f6f6f08",
+                "vid": "8d83d2d704e74b24903f8fe62f6f6f08"
+            },
+            {
+                "name": "菠萝宝宝",
+                "desc": "菠萝宝宝yuna",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3f6237f9186a4535a0eaa008239a3e2e",
+                "vid": "3f6237f9186a4535a0eaa008239a3e2e"
+            },
+            {
+                "name": "播音系女生",
+                "desc": "播音系女生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cec9f9ab26454077902f81409c12739d",
+                "vid": "cec9f9ab26454077902f81409c12739d"
+            },
+            {
+                "name": "不遇诡事",
+                "desc": "不遇诡事",
+                "img": "https://public-platform.r2.fish.audio/coverimage/39e1215370f44b39b7e6f3452bfd2d01",
+                "vid": "39e1215370f44b39b7e6f3452bfd2d01"
+            },
+            {
+                "name": "布洛妮娅",
+                "desc": "崩坏：星穹铁道布洛妮娅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/dfedaead274c44d1acb1c9f936386458",
+                "vid": "dfedaead274c44d1acb1c9f936386458"
+            },
+            {
+                "name": "布洛妮娅_次生银翼",
+                "desc": "崩坏3布洛妮娅_次生银翼",
+                "img": "https://public-platform.r2.fish.audio/coverimage/102bbcad98b0447a8c7047d2c0fee9ab",
+                "vid": "102bbcad98b0447a8c7047d2c0fee9ab"
+            },
+            {
+                "name": "才羽绿（中配）",
+                "desc": "蔚蓝档案才羽绿",
+                "img": "https://public-platform.r2.fish.audio/coverimage/096d613c869c4f4c8424b8cd7169211a",
+                "vid": "096d613c869c4f4c8424b8cd7169211a"
+            },
+            {
+                "name": "才羽桃井",
+                "desc": "蔚蓝档案才羽桃井",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9ba6953811534cdcbe5a03211ec2c3b0",
+                "vid": "9ba6953811534cdcbe5a03211ec2c3b0"
+            },
+            {
+                "name": "才羽桃井（王小桃）（中配）",
+                "desc": "蔚蓝档案才羽桃井",
+                "img": "https://public-platform.r2.fish.audio/coverimage/05c25a82cfe0426ab63d3d71ba8656cf",
+                "vid": "05c25a82cfe0426ab63d3d71ba8656cf"
+            },
+            {
+                "name": "才羽桃井（中配）",
+                "desc": "蔚蓝档案才羽桃井",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7539fea5f11849e1a7abd545c49d3825",
+                "vid": "7539fea5f11849e1a7abd545c49d3825"
+            },
+            {
+                "name": "菜菜菜菜",
+                "desc": "菜菜",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d4b4782ae356446eac07c1318c5e2147",
+                "vid": "d4b4782ae356446eac07c1318c5e2147"
+            },
+            {
+                "name": "蔡徐坤",
+                "desc": "我是练习了两年半的练习生蔡徐坤",
+                "img": "https://public-platform.r2.fish.audio/coverimage/33af4e451eb845f08f828827295b93e5",
+                "vid": "33af4e451eb845f08f828827295b93e5"
+            },
+            {
+                "name": "蔡徐坤2",
+                "desc": "我是全民坤哥,大家好!",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e4642e5edccd4d9ab61a69e82d4f8a14",
+                "vid": "e4642e5edccd4d9ab61a69e82d4f8a14"
+            },
+            {
+                "name": "曹操",
+                "desc": "不可能，绝对不可能",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1bbaba6403634711915f79561f9b7d0a",
+                "vid": "1bbaba6403634711915f79561f9b7d0a"
+            },
+            {
+                "name": "曹操-激动",
+                "desc": "不可能，绝对不可能",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a8c09950c8664e13a7d11b54e37a8e29",
+                "vid": "a8c09950c8664e13a7d11b54e37a8e29"
+            },
+            {
+                "name": "曹明月姐",
+                "desc": "曹明月",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5256a8a80a464ec3888f7633714e51ab",
+                "vid": "5256a8a80a464ec3888f7633714e51ab"
+            },
+            {
+                "name": "曾仕强",
+                "desc": "曾仕强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/40a3580914c04d5097cf258782a6e7b5",
+                "vid": "40a3580914c04d5097cf258782a6e7b5"
+            },
+            {
+                "name": "常陆茉子 中声",
+                "desc": "千恋*万花 常陆茉子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6f293dd14da9448c8a1fd93ef3d1ef48",
+                "vid": "6f293dd14da9448c8a1fd93ef3d1ef48"
+            },
+            {
+                "name": "超诱惑的",
+                "desc": "超诱惑",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6cca3aea743448b7a6e6c5fb554b66ea",
+                "vid": "6cca3aea743448b7a6e6c5fb554b66ea"
+            },
+            {
+                "name": "超诱惑的2",
+                "desc": "超诱惑2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/695a7f93e68f42329eb683da7f0d8fa8",
+                "vid": "695a7f93e68f42329eb683da7f0d8fa8"
+            },
+            {
+                "name": "陈冠希",
+                "desc": "我那时候19 20岁 我当然觉得自己很帅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/935195f13c3f4fbcb16d5aeaa1ec1d1b",
+                "vid": "935195f13c3f4fbcb16d5aeaa1ec1d1b"
+            },
+            {
+                "name": "陈建斌",
+                "desc": "不可能，绝对不可能",
+                "img": "https://public-platform.r2.fish.audio/coverimage/01a6ada6253943678e61c651f322927c",
+                "vid": "01a6ada6253943678e61c651f322927c"
+            },
+            {
+                "name": "陈奕迅",
+                "desc": "只是有些东西其实已经真的是安排好了",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d7ab8f49c5d34021aa45daca6d001ba9",
+                "vid": "d7ab8f49c5d34021aa45daca6d001ba9"
+            },
+            {
+                "name": "陈泽",
+                "desc": "菜就多练输不起就别玩以前是以前现在是现在别拿以前当现在",
+                "img": "https://public-platform.r2.fish.audio/coverimage/14b38b7065ed4da4bbb5db3056c90e7a",
+                "vid": "14b38b7065ed4da4bbb5db3056c90e7a"
+            },
+            {
+                "name": "程程女士",
+                "desc": "程女士",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e30bb73cd5c5466592d1c38cf6da2038",
+                "vid": "e30bb73cd5c5466592d1c38cf6da2038"
+            },
+            {
+                "name": "橙子妹妹",
+                "desc": "橙子（妹妹）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8d10307a754c400583d4f32bd74ca906",
+                "vid": "8d10307a754c400583d4f32bd74ca906"
+            },
+            {
+                "name": "初学道悟空",
+                "desc": "我是初学道悟空",
+                "img": "https://public-platform.r2.fish.audio/coverimage/29a7fd66aba84ea9a00f7f6e25e74238",
+                "vid": "29a7fd66aba84ea9a00f7f6e25e74238"
+            },
+            {
+                "name": "初音",
+                "desc": "我是初音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/56ded23c7a1c497b8a7cdbae8139c607",
+                "vid": "56ded23c7a1c497b8a7cdbae8139c607"
+            },
+            {
+                "name": "初音未来",
+                "desc": "我是初音未来",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5b3a73062df74dddb71893a8c8bc12d0",
+                "vid": "5b3a73062df74dddb71893a8c8bc12d0"
+            },
+            {
+                "name": "丛雨（中文版）",
+                "desc": "千恋*万花 丛雨",
+                "img": "https://public-platform.r2.fish.audio/coverimage/45c6ec50b57844c7b8271606a29cbbd6",
+                "vid": "45c6ec50b57844c7b8271606a29cbbd6"
+            },
+            {
+                "name": "达达利亚",
+                "desc": "原神达达利亚",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ced89518351f46da88a21de43cc87cea",
+                "vid": "ced89518351f46da88a21de43cc87cea"
+            },
+            {
+                "name": "大爱仙尊",
+                "desc": "大爱仙尊",
+                "img": "https://public-platform.r2.fish.audio/coverimage/501f553ee12741f8a8e5e99f1ad07979",
+                "vid": "501f553ee12741f8a8e5e99f1ad07979"
+            },
+            {
+                "name": "大赛冯琳",
+                "desc": "央视主持大赛冯琳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3422e37df3a1419290a35e21769fc358",
+                "vid": "3422e37df3a1419290a35e21769fc358"
+            },
+            {
+                "name": "大司马",
+                "desc": "大司马",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f198a680f1774280821cba47969eb687",
+                "vid": "f198a680f1774280821cba47969eb687"
+            },
+            {
+                "name": "带货女主",
+                "desc": "带货主播女",
+                "img": "https://public-platform.r2.fish.audio/coverimage/969b367b71224c45b4c86f0266dc0112",
+                "vid": "969b367b71224c45b4c86f0266dc0112"
+            },
+            {
+                "name": "带货声音",
+                "desc": "带货声音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0f613032135542d2888b8c34e10ad260",
+                "vid": "0f613032135542d2888b8c34e10ad260"
+            },
+            {
+                "name": "戴佳录版",
+                "desc": "戴佳琪家录版",
+                "img": "https://public-platform.r2.fish.audio/coverimage/37995d060dae475cb7c95b1a54d4d119",
+                "vid": "37995d060dae475cb7c95b1a54d4d119"
+            },
+            {
+                "name": "丹恒，饮月",
+                "desc": "我不是任何人的影子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/67d3d662d21e4776bc38bef3296c7f75",
+                "vid": "67d3d662d21e4776bc38bef3296c7f75"
+            },
+            {
+                "name": "单田芳",
+                "desc": "打人没好手，骂人没好口。 要解心头恨，拔剑斩仇人。 不怕没好事，就怕没好人。 弓拉如满月，箭射似流星",
+                "img": "https://public-platform.r2.fish.audio/coverimage/47b2f5a685aa456286e6746b42db4490",
+                "vid": "47b2f5a685aa456286e6746b42db4490"
+            },
+            {
+                "name": "邓超（电影美人鱼）",
+                "desc": "一日奔跑，终生兄弟！奔跑吧，兄弟！",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ed6ba57583e3453495ff95cc28f9fc36",
+                "vid": "ed6ba57583e3453495ff95cc28f9fc36"
+            },
+            {
+                "name": "邓丽君",
+                "desc": "你可以去找新的恋情，也可以不留一点音讯，但不要用偿还做借口，再让我伤心",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b4ff9757b1084f0991b061ad32f065ea",
+                "vid": "b4ff9757b1084f0991b061ad32f065ea"
+            },
+            {
+                "name": "邓紫琪",
+                "desc": "我用音乐来守护你们 ",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3b55b3d84d2f453a98d8ca9bb24182d6",
+                "vid": "3b55b3d84d2f453a98d8ca9bb24182d6"
+            },
+            {
+                "name": "邓紫棋2",
+                "desc": "我是邓紫棋呀",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bd81ff310a6d4cfc9cdac2d94a5a90c2",
+                "vid": "bd81ff310a6d4cfc9cdac2d94a5a90c2"
+            },
+            {
+                "name": "电台女生",
+                "desc": "我是电台女生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5d2a756ccac542bcbac869e2e55b70ed",
+                "vid": "5d2a756ccac542bcbac869e2e55b70ed"
+            },
+            {
+                "name": "电台情感",
+                "desc": "我是电台情感",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2d01a8fde0334a64bd64f28bd3658043",
+                "vid": "2d01a8fde0334a64bd64f28bd3658043"
+            },
+            {
+                "name": "丁真（锐刻五代版）",
+                "desc": "我是丁真（锐刻五代版）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/332941d1360c48949f1b4e0cabf912cd",
+                "vid": "332941d1360c48949f1b4e0cabf912cd"
+            },
+            {
+                "name": "东北姐姐",
+                "desc": "东北姐姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9b477fbe1ec04c1fa5a4653516a0250b",
+                "vid": "9b477fbe1ec04c1fa5a4653516a0250b"
+            },
+            {
+                "name": "东北老哥",
+                "desc": "东北老哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/31a05420e2964a6aba27f92537d9e1f9",
+                "vid": "31a05420e2964a6aba27f92537d9e1f9"
+            },
+            {
+                "name": "东东羊",
+                "desc": "东东羊",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2bbab1a2dcc843fba077c00cfcc9ecb8",
+                "vid": "2bbab1a2dcc843fba077c00cfcc9ecb8"
+            },
+            {
+                "name": "东海帝皇",
+                "desc": "东海帝皇3.0",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b430a04b1d2f41ebb934d3f579dc7197",
+                "vid": "b430a04b1d2f41ebb934d3f579dc7197"
+            },
+            {
+                "name": "东雪莲",
+                "desc": "我是东雪莲,B站虚拟Up主",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7af4d620be1c4c6686132f21940d51c5",
+                "vid": "7af4d620be1c4c6686132f21940d51c5"
+            },
+            {
+                "name": "冬雪莲",
+                "desc": "冬雪莲",
+                "img": "https://public-platform.r2.fish.audio/coverimage/97fd95a426b44ff2a6731c97b9924824",
+                "vid": "97fd95a426b44ff2a6731c97b9924824"
+            },
+            {
+                "name": "董卿",
+                "desc": "勇敢的人，不是不落泪的人，而是愿意含着泪继续奔跑的人",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a77af925ec904f468fe386e64deb8942",
+                "vid": "a77af925ec904f468fe386e64deb8942"
+            },
+            {
+                "name": "董宇辉",
+                "desc": "一个人可以被毁灭，但一个人无法被打败",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8f454f665d214e4284ba05f703b63960",
+                "vid": "8f454f665d214e4284ba05f703b63960"
+            },
+            {
+                "name": "董卓大人",
+                "desc": "董卓",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7d05e8e22d6a43eb9b6e55d690d739e0",
+                "vid": "7d05e8e22d6a43eb9b6e55d690d739e0"
+            },
+            {
+                "name": "抖兜抖兜",
+                "desc": "抖兜",
+                "img": "https://public-platform.r2.fish.audio/coverimage/70ba3096a66542fd93131c156cddfe5a",
+                "vid": "70ba3096a66542fd93131c156cddfe5a"
+            },
+            {
+                "name": "段老师男",
+                "desc": "段老师男_男_2_短视频—游戏解说—轻松活泼—青年",
+                "img": "https://public-platform.r2.fish.audio/coverimage/483b62fafd7941858d01c663560c49f5",
+                "vid": "483b62fafd7941858d01c663560c49f5"
+            },
+            {
+                "name": "夺命邮差",
+                "desc": "夺命邮差2-喋血街头2：Postal-Dude中文配音语音3.0",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6c9ebad2c06946fd91d9b96a9aabf2a8",
+                "vid": "6c9ebad2c06946fd91d9b96a9aabf2a8"
+            },
+            {
+                "name": "俄罗斯",
+                "desc": "俄罗斯",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ccfd6a1fd08442f98e2db07ef5d7120e",
+                "vid": "ccfd6a1fd08442f98e2db07ef5d7120e"
+            },
+            {
+                "name": "恩雅",
+                "desc": "恩雅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6be13936f1e34f56a904fea73e975d3c",
+                "vid": "6be13936f1e34f56a904fea73e975d3c"
+            },
+            {
+                "name": "二赤元刀哥",
+                "desc": "大家好，我是二赤元刀哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0e6b199e6e0543f3bb02853e35ade631",
+                "vid": "0e6b199e6e0543f3bb02853e35ade631"
+            },
+            {
+                "name": "樊登樊登",
+                "desc": "樊登【自愈力】",
+                "img": "https://public-platform.r2.fish.audio/coverimage/590e1656c81d43e7abc0cd3123d1757c",
+                "vid": "590e1656c81d43e7abc0cd3123d1757c"
+            },
+            {
+                "name": "范小勤",
+                "desc": "我是范小勤,阿里阿里巴巴",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e18dcfa12a584f8795ccb37fecb22eaf",
+                "vid": "e18dcfa12a584f8795ccb37fecb22eaf"
+            },
+            {
+                "name": "范志毅",
+                "desc": "范志毅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/43547f77855d48e387ef9febf6ef8236",
+                "vid": "43547f77855d48e387ef9febf6ef8236"
+            },
+            {
+                "name": "芬妮",
+                "desc": "芬妮",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d30f5e21a0e94a65a045376963f8624a",
+                "vid": "d30f5e21a0e94a65a045376963f8624a"
+            },
+            {
+                "name": "枫原万叶",
+                "desc": "枫原万叶",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ab56a44789f74ff48f355acf9fb62a04",
+                "vid": "ab56a44789f74ff48f355acf9fb62a04"
+            },
+            {
+                "name": "冯宝宝",
+                "desc": "冯宝宝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5c6e52a0853c43348c0eeced11d565ae",
+                "vid": "5c6e52a0853c43348c0eeced11d565ae"
+            },
+            {
+                "name": "佛祖",
+                "desc": "我是佛祖",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8e9abe258e9049d2aace5258b6f79ae7",
+                "vid": "8e9abe258e9049d2aace5258b6f79ae7"
+            },
+            {
+                "name": "芙宁娜",
+                "desc": "我是芙宁娜,枫丹水神",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1aacaeb1b840436391b835fd5513f4c4",
+                "vid": "1aacaeb1b840436391b835fd5513f4c4"
+            },
+            {
+                "name": "高启强",
+                "desc": "风浪越大鱼越贵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2f6d96287c6f43a29bdf88cb3b12c0c3",
+                "vid": "2f6d96287c6f43a29bdf88cb3b12c0c3"
+            },
+            {
+                "name": "高启强2",
+                "desc": "你知道京海吗？低沉的磁性的男性声音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b1ce0a88c79f4e3180217a7fe2c72969",
+                "vid": "b1ce0a88c79f4e3180217a7fe2c72969"
+            },
+            {
+                "name": "高启强正常音色",
+                "desc": "风浪越大鱼越贵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/80928777d4ac4b9081d14a5f6ae37b0b",
+                "vid": "80928777d4ac4b9081d14a5f6ae37b0b"
+            },
+            {
+                "name": "高启盛",
+                "desc": "在京海高家看上的东西迟早都是高家的",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ac644b1e81dc4a6a96f2352e5665ec64",
+                "vid": "ac644b1e81dc4a6a96f2352e5665ec64"
+            },
+            {
+                "name": "高育良",
+                "desc": "我太想进步了，老师",
+                "img": "https://public-platform.r2.fish.audio/coverimage/96dba6ea5d87490fbb75fdc92cc3ad7f",
+                "vid": "96dba6ea5d87490fbb75fdc92cc3ad7f"
+            },
+            {
+                "name": "葛平",
+                "desc": "我来",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0df0cdbed5ab4cc5bb99efe672f60942",
+                "vid": "0df0cdbed5ab4cc5bb99efe672f60942"
+            },
+            {
+                "name": "葛优",
+                "desc": "说句实话我一身的气质不少人羡慕的都不行说我太过于浪漫",
+                "img": "https://public-platform.r2.fish.audio/coverimage/56f253e9761c446db77f15f33e06226e",
+                "vid": "56f253e9761c446db77f15f33e06226e"
+            },
+            {
+                "name": "工藤新一",
+                "desc": "我是工藤新一",
+                "img": "https://public-platform.r2.fish.audio/coverimage/206e18a6ec67463f922df151fa8ecdf6",
+                "vid": "206e18a6ec67463f922df151fa8ecdf6"
+            },
+            {
+                "name": "关羽",
+                "desc": "我是关羽",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2d4fe930c97146c98ae2785c2845341a",
+                "vid": "2d4fe930c97146c98ae2785c2845341a"
+            },
+            {
+                "name": "观音",
+                "desc": "我是观音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6ef591a3355c484b8c236ab9ca5f2e04",
+                "vid": "6ef591a3355c484b8c236ab9ca5f2e04"
+            },
+            {
+                "name": "光头强",
+                "desc": "我是光头强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f453c0be56ce49259a46ec873727952c",
+                "vid": "f453c0be56ce49259a46ec873727952c"
+            },
+            {
+                "name": "光头强2",
+                "desc": "我是光头强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3beec38727a447bc847b415f9a185930",
+                "vid": "3beec38727a447bc847b415f9a185930"
+            },
+            {
+                "name": "广告女声",
+                "desc": "广告端庄女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb69ddf5b40c48c78a543841c7d1930f",
+                "vid": "cb69ddf5b40c48c78a543841c7d1930f"
+            },
+            {
+                "name": "郭德纲",
+                "desc": "德云社郭德纲",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7c66db6e457c4d53b1fe428a8c547953",
+                "vid": "7c66db6e457c4d53b1fe428a8c547953"
+            },
+            {
+                "name": "海绵宝宝",
+                "desc": "我是海绵宝宝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a89a387d743f46f99a6935655673a050",
+                "vid": "a89a387d743f46f99a6935655673a050"
+            },
+            {
+                "name": "黑手",
+                "desc": "小逼崽子真没见过黑社会啊？",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f7561ff309bd4040a59f1e600f4f4338",
+                "vid": "f7561ff309bd4040a59f1e600f4f4338"
+            },
+            {
+                "name": "黑天鹅",
+                "desc": "黑天鹅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5816b9e2a12e40e69aa645bb7f76ec79",
+                "vid": "5816b9e2a12e40e69aa645bb7f76ec79"
+            },
+            {
+                "name": "胡桃",
+                "desc": "胡桃",
+                "img": "https://public-platform.r2.fish.audio/coverimage/27afebb2dd2e424eaba1d74fb0d25c9f",
+                "vid": "27afebb2dd2e424eaba1d74fb0d25c9f"
+            },
+            {
+                "name": "虎哥",
+                "desc": "虎哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/92eb3cebe48e4f2e8bf423b944288f13",
+                "vid": "92eb3cebe48e4f2e8bf423b944288f13"
+            },
+            {
+                "name": "华妃",
+                "desc": "华妃",
+                "img": "https://public-platform.r2.fish.audio/coverimage/aa8d0175d8784e01900e9ddcb160791f",
+                "vid": "aa8d0175d8784e01900e9ddcb160791f"
+            },
+            {
+                "name": "纪录男声",
+                "desc": "纪录片男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7d4cc998f68c413ba5605d892d7acc87",
+                "vid": "7d4cc998f68c413ba5605d892d7acc87"
+            },
+            {
+                "name": "纪录旁白",
+                "desc": "NBA纪录片旁白",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6adf8b306e9148ce92b353511a1ff2fe",
+                "vid": "6adf8b306e9148ce92b353511a1ff2fe"
+            },
+            {
+                "name": "夹子妹妹",
+                "desc": "很真实,非常骚的一个音色",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a2569c4274ac40a4824ce1919f4de093",
+                "vid": "a2569c4274ac40a4824ce1919f4de093"
+            },
+            {
+                "name": "夹子妹妹2",
+                "desc": "夹子妹妹2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7e4da5b6ae1f4a1e962f9ff7772c1766",
+                "vid": "7e4da5b6ae1f4a1e962f9ff7772c1766"
+            },
+            {
+                "name": "江河老师",
+                "desc": "江河老师_男_3_【记录片】舌尖类美食汤粉",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3c56edcf24a14552aa770837f1a41510",
+                "vid": "3c56edcf24a14552aa770837f1a41510"
+            },
+            {
+                "name": "江河老师2",
+                "desc": "江河老师_男_7_【品质广告】浑厚低稳封坛酒",
+                "img": "https://public-platform.r2.fish.audio/coverimage/29ffef19d0fe49f596459bd1a563a546",
+                "vid": "29ffef19d0fe49f596459bd1a563a546"
+            },
+            {
+                "name": "蒋介石",
+                "desc": "蒋介石",
+                "img": "https://public-platform.r2.fish.audio/coverimage/31a25f6421bc4e19a4ef05fd1aac6026",
+                "vid": "31a25f6421bc4e19a4ef05fd1aac6026"
+            },
+            {
+                "name": "金蕾报站",
+                "desc": "上海地铁金蕾报站",
+                "img": "https://public-platform.r2.fish.audio/coverimage/29fc13e8fb0c40f989bdeed2b15be145",
+                "vid": "29fc13e8fb0c40f989bdeed2b15be145"
+            },
+            {
+                "name": "鞠婧祎",
+                "desc": "鞠婧祎",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3f8d37b5f1fb4110a84ef5d7bcd64334",
+                "vid": "3f8d37b5f1fb4110a84ef5d7bcd64334"
+            },
+            {
+                "name": "大决战常凯申",
+                "desc": "大决战-常凯申",
+                "img": "https://public-platform.r2.fish.audio/coverimage/57c78a36b73e42a292122135fc87cee8",
+                "vid": "57c78a36b73e42a292122135fc87cee8"
+            },
+            {
+                "name": "凯瑟琳",
+                "desc": "凯瑟琳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/33ab2b112719488cb023f3b46d665083",
+                "vid": "33ab2b112719488cb023f3b46d665083"
+            },
+            {
+                "name": "康熙",
+                "desc": "康熙",
+                "img": "https://public-platform.r2.fish.audio/coverimage/079d5d8d41bd49b4a4f8776c92488f6c",
+                "vid": "079d5d8d41bd49b4a4f8776c92488f6c"
+            },
+            {
+                "name": "柯南",
+                "desc": "真相永远只有一个",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2ff45b3abdeb48dea8edb0daf2f49362",
+                "vid": "2ff45b3abdeb48dea8edb0daf2f49362"
+            },
+            {
+                "name": "科比牢大",
+                "desc": "牢大",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e30e48f9d9f7465fb31832e4ee191e77",
+                "vid": "e30e48f9d9f7465fb31832e4ee191e77"
+            },
+            {
+                "name": "可莉",
+                "desc": "可莉",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0b8449eb752c4f888f463fc5d2c0db65",
+                "vid": "0b8449eb752c4f888f463fc5d2c0db65"
+            },
+            {
+                "name": "肯德基",
+                "desc": "肯德基",
+                "img": "https://public-platform.r2.fish.audio/coverimage/45d35c48eb254b60a205585bc5d7ebb6",
+                "vid": "45d35c48eb254b60a205585bc5d7ebb6"
+            },
+            {
+                "name": "空之律者",
+                "desc": "琪亚娜_空之律者",
+                "img": "https://public-platform.r2.fish.audio/coverimage/19553e11d45046d5ba09e232143e6549",
+                "vid": "19553e11d45046d5ba09e232143e6549"
+            },
+            {
+                "name": "蜡笔小新",
+                "desc": "我是蜡笔小新",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5c72743080fa487eb7b4b3e61c8c3719",
+                "vid": "5c72743080fa487eb7b4b3e61c8c3719"
+            },
+            {
+                "name": "莱欧斯利",
+                "desc": "莱欧斯利（中文）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a6114a0d2fc54a6b935da37554618868",
+                "vid": "a6114a0d2fc54a6b935da37554618868"
+            },
+            {
+                "name": "懒羊羊",
+                "desc": "我是懒羊羊",
+                "img": "https://public-platform.r2.fish.audio/coverimage/131c6b3a889543139680d8b3aa26b98d",
+                "vid": "131c6b3a889543139680d8b3aa26b98d"
+            },
+            {
+                "name": "老马说车",
+                "desc": "老马说车",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7d6a2198007c4f2da1e7ffe4be9db921",
+                "vid": "7d6a2198007c4f2da1e7ffe4be9db921"
+            },
+            {
+                "name": "雷电将军",
+                "desc": "雷电将军",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ec4875ed4e154ed09d1b501a2214579a",
+                "vid": "ec4875ed4e154ed09d1b501a2214579a"
+            },
+            {
+                "name": "雷军",
+                "desc": "Are you ok？",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4d1fbf1688f34ef28f976304a7b26e61",
+                "vid": "4d1fbf1688f34ef28f976304a7b26e61"
+            },
+            {
+                "name": "雷军（演讲）",
+                "desc": "Are you ok？",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8be867e6c76842758ce6f1625d60bb77",
+                "vid": "8be867e6c76842758ce6f1625d60bb77"
+            },
+            {
+                "name": "雷军演讲",
+                "desc": "Are you ok？",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7306b45a657f457b939561e349a4947b",
+                "vid": "7306b45a657f457b939561e349a4947b"
+            },
+            {
+                "name": "磊哥游戏",
+                "desc": "磊哥游戏",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2911e66c2f5f4fbc9f989cbb87ef488a",
+                "vid": "2911e66c2f5f4fbc9f989cbb87ef488a"
+            },
+            {
+                "name": "李达康",
+                "desc": "我是李达康",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e0039f61c9414d158b66ce8d589d9de0",
+                "vid": "e0039f61c9414d158b66ce8d589d9de0"
+            },
+            {
+                "name": "李云龙",
+                "desc": "他娘了",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2e576989a8f94e888bf218de90f8c19a",
+                "vid": "2e576989a8f94e888bf218de90f8c19a"
+            },
+            {
+                "name": "林黛玉",
+                "desc": "林黛玉V2.0",
+                "img": "https://public-platform.r2.fish.audio/coverimage/124d1a68316e4cb8a048bbe054ab3138",
+                "vid": "124d1a68316e4cb8a048bbe054ab3138"
+            },
+            {
+                "name": "林俊杰",
+                "desc": "歌手林俊杰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e9d3714610614c13830943935fc7ff25",
+                "vid": "e9d3714610614c13830943935fc7ff25"
+            },
+            {
+                "name": "刘备",
+                "desc": "演员刘备",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4206283a9cbc4da59f90bd57e8cfbb7e",
+                "vid": "4206283a9cbc4da59f90bd57e8cfbb7e"
+            },
+            {
+                "name": "刘备2",
+                "desc": "刘备（愤怒）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8a9310ea9df5407882793705db93bbe7",
+                "vid": "8a9310ea9df5407882793705db93bbe7"
+            },
+            {
+                "name": "刘备3",
+                "desc": "刘备-正常",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5e680ebc2eeb4f78a2224f2e1003b8c6",
+                "vid": "5e680ebc2eeb4f78a2224f2e1003b8c6"
+            },
+            {
+                "name": "刘德华",
+                "desc": "歌手刘德华",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb03a4a3ff6a4784b319cde85a07e31c",
+                "vid": "cb03a4a3ff6a4784b319cde85a07e31c"
+            },
+            {
+                "name": "刘海柱",
+                "desc": "法师刘海柱",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ab16c0363bce4a459fe8b4279c19ff10",
+                "vid": "ab16c0363bce4a459fe8b4279c19ff10"
+            },
+            {
+                "name": "刘华强",
+                "desc": "哥们瓜多少钱一斤",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e04a3dc718864c999ef7db3035764aa8",
+                "vid": "e04a3dc718864c999ef7db3035764aa8"
+            },
+            {
+                "name": "刘华强（疯子名场面版本）",
+                "desc": "哥们瓜多少钱一斤",
+                "img": "https://public-platform.r2.fish.audio/coverimage/568c26eec20447ebbdb18a653aae39d6",
+                "vid": "568c26eec20447ebbdb18a653aae39d6"
+            },
+            {
+                "name": "刘洁老师",
+                "desc": "刘洁老师_女_19_广播剧角色【御姐】",
+                "img": "https://public-platform.r2.fish.audio/coverimage/292a9d246d4244de8071756db525cf48",
+                "vid": "292a9d246d4244de8071756db525cf48"
+            },
+            {
+                "name": "刘亦菲",
+                "desc": "刘亦菲",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4642a16d8658445c96299aed2b5af87e",
+                "vid": "4642a16d8658445c96299aed2b5af87e"
+            },
+            {
+                "name": "刘亦菲2",
+                "desc": "刘亦菲（24.6月最新）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/acc7f90f8dfd411c85284e06f68ee254",
+                "vid": "acc7f90f8dfd411c85284e06f68ee254"
+            },
+            {
+                "name": "卢本伟",
+                "desc": "我卢本伟没有开挂",
+                "img": "https://public-platform.r2.fish.audio/coverimage/24d524b57c5948f598e9b74c4dacc7ab",
+                "vid": "24d524b57c5948f598e9b74c4dacc7ab"
+            },
+            {
+                "name": "鲁智深",
+                "desc": "鲁智深2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a926b14c99f0460ea9ea8830c06814d4",
+                "vid": "a926b14c99f0460ea9ea8830c06814d4"
+            },
+            {
+                "name": "陆景和",
+                "desc": "陆景和",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5ee2fdd9f8b8479fbbad743b33c25d03",
+                "vid": "5ee2fdd9f8b8479fbbad743b33c25d03"
+            },
+            {
+                "name": "陆景和2",
+                "desc": "陆景和（第二版）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8aebbe5901b94a2fa5f0b9d66830df6c",
+                "vid": "8aebbe5901b94a2fa5f0b9d66830df6c"
+            },
+            {
+                "name": "罗永浩",
+                "desc": "手机不赚钱就交个朋友",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9cc8e9b9d9ed471a82144300b608bf7f",
+                "vid": "9cc8e9b9d9ed471a82144300b608bf7f"
+            },
+            {
+                "name": "萝莉幼态",
+                "desc": "萝莉更趋向幼态",
+                "img": "https://public-platform.r2.fish.audio/coverimage/564dc2631c624222a21864b17f3c66a8",
+                "vid": "564dc2631c624222a21864b17f3c66a8"
+            },
+            {
+                "name": "洛天依柔",
+                "desc": "洛天依_柔",
+                "img": "https://public-platform.r2.fish.audio/coverimage/69c8e52894ad4caf815880cd88401019",
+                "vid": "69c8e52894ad4caf815880cd88401019"
+            },
+            {
+                "name": "吕德华",
+                "desc": "吕德华",
+                "img": "https://public-platform.r2.fish.audio/coverimage/dd06c844c0cd453e993b7f7ce1619f48",
+                "vid": "dd06c844c0cd453e993b7f7ce1619f48"
+            },
+            {
+                "name": "绿茶妹子",
+                "desc": "稍微绿茶南方妹子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3a85984685644fd386910158c3d734d8",
+                "vid": "3a85984685644fd386910158c3d734d8"
+            },
+            {
+                "name": "马保国",
+                "desc": "混元形意太极掌门人马保国,我大意了没有闪",
+                "img": "https://public-platform.r2.fish.audio/coverimage/18aeeaa68b8f4536bab9a476b1fc8652",
+                "vid": "18aeeaa68b8f4536bab9a476b1fc8652"
+            },
+            {
+                "name": "马嘉祺",
+                "desc": "马嘉祺",
+                "img": "https://public-platform.r2.fish.audio/coverimage/08672e4456d047f4b3fe8fb070d49c71",
+                "vid": "08672e4456d047f4b3fe8fb070d49c71"
+            },
+            {
+                "name": "马云",
+                "desc": "我没有碰过钱，我对钱不感兴趣",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a394ef5e06004c908ab0ea1002e0c141",
+                "vid": "a394ef5e06004c908ab0ea1002e0c141"
+            },
+            {
+                "name": "麦当劳",
+                "desc": "麦当劳",
+                "img": "https://public-platform.r2.fish.audio/coverimage/315dfe0a844b47c4b9eec7aeffc37a15",
+                "vid": "315dfe0a844b47c4b9eec7aeffc37a15"
+            },
+            {
+                "name": "麦克阿瑟",
+                "desc": "麦克阿瑟说过",
+                "img": "https://public-platform.r2.fish.audio/coverimage/405736979e244634914add64e37290b0",
+                "vid": "405736979e244634914add64e37290b0"
+            },
+            {
+                "name": "麦克阿瑟2",
+                "desc": "麦克阿瑟纪录片解说声音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fb54c23f450344f4aaad7e2800fcd6fb",
+                "vid": "fb54c23f450344f4aaad7e2800fcd6fb"
+            },
+            {
+                "name": "卖卖",
+                "desc": "卖卖",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0d7e798a1d1e4d368e71d1ff705358b9",
+                "vid": "0d7e798a1d1e4d368e71d1ff705358b9"
+            },
+            {
+                "name": "满穗",
+                "desc": "满穗",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bea1f27f25d448dd810c54b450b0a76b",
+                "vid": "bea1f27f25d448dd810c54b450b0a76b"
+            },
+            {
+                "name": "满穗2",
+                "desc": "满穗！！！",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4dd791d362db4cd68ed301584dd20468",
+                "vid": "4dd791d362db4cd68ed301584dd20468"
+            },
+            {
+                "name": "满穗3",
+                "desc": "满穗ovo",
+                "img": "https://public-platform.r2.fish.audio/coverimage/30a13f8df6164ca9a8698012ac807507",
+                "vid": "30a13f8df6164ca9a8698012ac807507"
+            },
+            {
+                "name": "曼波小子",
+                "desc": "曼波",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c30c92c9a27d4a8f9b80ba21ca58245d",
+                "vid": "c30c92c9a27d4a8f9b80ba21ca58245d"
+            },
+            {
+                "name": "猫汐尔",
+                "desc": "猫汐尔",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0d088c9b3db2427895ac197d0f8d9e59",
+                "vid": "0d088c9b3db2427895ac197d0f8d9e59"
+            },
+            {
+                "name": "魅魔女王",
+                "desc": "粗口魅魔女王",
+                "img": "https://public-platform.r2.fish.audio/coverimage/513c510911bd4eb69742a6426402d5b1",
+                "vid": "513c510911bd4eb69742a6426402d5b1"
+            },
+            {
+                "name": "闷骚师傅",
+                "desc": "闷骚女师傅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1aac1d1123374183aadbfefc2d1c00ef",
+                "vid": "1aac1d1123374183aadbfefc2d1c00ef"
+            },
+            {
+                "name": "明前奶绿",
+                "desc": "明前奶绿",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e0cefc0c31674611862242d79f1075cc",
+                "vid": "e0cefc0c31674611862242d79f1075cc"
+            },
+            {
+                "name": "明前奶绿2",
+                "desc": "明前奶绿2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7a90968f0a0341b5ab0c82480c018312",
+                "vid": "7a90968f0a0341b5ab0c82480c018312"
+            },
+            {
+                "name": "明日方舟",
+                "desc": "明日方舟 W",
+                "img": "https://public-platform.r2.fish.audio/coverimage/801157ebc51f4de2a02aa95d8330f241",
+                "vid": "801157ebc51f4de2a02aa95d8330f241"
+            },
+            {
+                "name": "明日方舟2",
+                "desc": "明日方舟 特雷西娅、魔王",
+                "img": "https://public-platform.r2.fish.audio/coverimage/816affccf6344baa8f878af81b1b7104",
+                "vid": "816affccf6344baa8f878af81b1b7104"
+            },
+            {
+                "name": "魔宏声",
+                "desc": "魔宏声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8ea03e2739c24ac08bbd4c62b6417f22",
+                "vid": "8ea03e2739c24ac08bbd4c62b6417f22"
+            },
+            {
+                "name": "魔云西",
+                "desc": "魔云西",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1ccdb3caa849440ba18b23f7619ed705",
+                "vid": "1ccdb3caa849440ba18b23f7619ed705"
+            },
+            {
+                "name": "茉莉安",
+                "desc": "茉莉安",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4ce48a91e23d4cfc92b67931aa81ff74",
+                "vid": "4ce48a91e23d4cfc92b67931aa81ff74"
+            },
+            {
+                "name": "木成配音",
+                "desc": "木成配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/25dbdfea174f4695854f7e7acb220afe",
+                "vid": "25dbdfea174f4695854f7e7acb220afe"
+            },
+            {
+                "name": "木成配音2",
+                "desc": "木成配音（去噪版）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ff9f16aabfb2431580e14949f86ca9a8",
+                "vid": "ff9f16aabfb2431580e14949f86ca9a8"
+            },
+            {
+                "name": "那维莱特",
+                "desc": "那维莱特",
+                "img": "https://public-platform.r2.fish.audio/coverimage/468faea7a95d48e48bac8c4aad7940d8",
+                "vid": "468faea7a95d48e48bac8c4aad7940d8"
+            },
+            {
+                "name": "那艺娜",
+                "desc": "那艺娜",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ef9caefa785a4d2f97fe75806f33e21e",
+                "vid": "ef9caefa785a4d2f97fe75806f33e21e"
+            },
+            {
+                "name": "纳西妲",
+                "desc": "纳西妲",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9f7eb4b1663a4d58b1554921121c4a47",
+                "vid": "9f7eb4b1663a4d58b1554921121c4a47"
+            },
+            {
+                "name": "娜维娅",
+                "desc": "娜维娅",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fc50c652101640c489eca193ab756d9e",
+                "vid": "fc50c652101640c489eca193ab756d9e"
+            },
+            {
+                "name": "尼奈",
+                "desc": "尼奈",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fcce991d24e6453fbc2663a42281f11e",
+                "vid": "fcce991d24e6453fbc2663a42281f11e"
+            },
+            {
+                "name": "尼奈2",
+                "desc": "尼奈（猫娘版）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d48d8cd2382e4ca19ab4f713c4cf96c4",
+                "vid": "d48d8cd2382e4ca19ab4f713c4cf96c4"
+            },
+            {
+                "name": "女学生",
+                "desc": "毕业季温情女学生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a1417155aa234890aab4a18686d12849",
+                "vid": "a1417155aa234890aab4a18686d12849"
+            },
+            {
+                "name": "女主播",
+                "desc": "女主播",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ed315575ab004af9b4050d4c0f2e430e",
+                "vid": "ed315575ab004af9b4050d4c0f2e430e"
+            },
+            {
+                "name": "女孩声音",
+                "desc": "儿童女孩声音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d7fed210dc044f98931eb64586fa5cae",
+                "vid": "d7fed210dc044f98931eb64586fa5cae"
+            },
+            {
+                "name": "女声样本",
+                "desc": "女声样本-02",
+                "img": "https://public-platform.r2.fish.audio/coverimage/04236bdca234402f8b84668338b37977",
+                "vid": "04236bdca234402f8b84668338b37977"
+            },
+            {
+                "name": "女声娱乐",
+                "desc": "女声8.15娱乐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/47fbf5d643674354a17d9669f27c3af9",
+                "vid": "47fbf5d643674354a17d9669f27c3af9"
+            },
+            {
+                "name": "女王陛下",
+                "desc": "女王陛下",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e9198dfc754b4d83b501612c4c95c615",
+                "vid": "e9198dfc754b4d83b501612c4c95c615"
+            },
+            {
+                "name": "派大星",
+                "desc": "派大星",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f0a8825f4c47472b91f731d4bb46908c",
+                "vid": "f0a8825f4c47472b91f731d4bb46908c"
+            },
+            {
+                "name": "派蒙3",
+                "desc": "派蒙3",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f6425925ac4d4b70812e411d5a51fad2",
+                "vid": "f6425925ac4d4b70812e411d5a51fad2"
+            },
+            {
+                "name": "派蒙",
+                "desc": "派蒙",
+                "img": "https://public-platform.r2.fish.audio/coverimage/eacc56f8ab48443fa84421c547d3b60e",
+                "vid": "eacc56f8ab48443fa84421c547d3b60e"
+            },
+            {
+                "name": "派蒙2",
+                "desc": "派蒙_ZH",
+                "img": "https://public-platform.r2.fish.audio/coverimage/efc1ce3726a64bbc947d53a1465204aa",
+                "vid": "efc1ce3726a64bbc947d53a1465204aa"
+            },
+            {
+                "name": "彭于晏",
+                "desc": "大家好我是彭于晏",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6df306900c4547158edfdd824240ea78",
+                "vid": "6df306900c4547158edfdd824240ea78"
+            },
+            {
+                "name": "迫害激情声",
+                "desc": "47被迫害的激情声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/12b0f075508e43cc95b71629d20616fb",
+                "vid": "12b0f075508e43cc95b71629d20616fb"
+            },
+            {
+                "name": "菩提祖师",
+                "desc": "菩提祖师",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d85181a05b284840a89e9df2b8e40d96",
+                "vid": "d85181a05b284840a89e9df2b8e40d96"
+            },
+            {
+                "name": "齐天大圣",
+                "desc": "猴哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/978fdc76881c4b6199faeb1c8b8cc0d7",
+                "vid": "978fdc76881c4b6199faeb1c8b8cc0d7"
+            },
+            {
+                "name": "齐天大圣2",
+                "desc": "猴哥2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c4dcf38069e14e6fa71a0cd2c7371eeb",
+                "vid": "c4dcf38069e14e6fa71a0cd2c7371eeb"
+            },
+            {
+                "name": "祁同伟",
+                "desc": "老师我太想进步了",
+                "img": "https://public-platform.r2.fish.audio/coverimage/446079b743b44ca0932e84e365a79ac9",
+                "vid": "446079b743b44ca0932e84e365a79ac9"
+            },
+            {
+                "name": "祁同伟语录",
+                "desc": "老师我太想进步了",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e711fbb912c0456ebc5443c04a211e79",
+                "vid": "e711fbb912c0456ebc5443c04a211e79"
+            },
+            {
+                "name": "祁煜生气",
+                "desc": "祁煜（生气）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e39e7135334141f28b80c9490d4762bf",
+                "vid": "e39e7135334141f28b80c9490d4762bf"
+            },
+            {
+                "name": "棋手战鹰",
+                "desc": "棋手战鹰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6021b47493af4b65afed404858eecde9",
+                "vid": "6021b47493af4b65afed404858eecde9"
+            },
+            {
+                "name": "企业雷军",
+                "desc": "企业家雷军,Are you Ok?",
+                "img": "https://public-platform.r2.fish.audio/coverimage/738d0cc1a3e9430a9de2b544a466a7fc",
+                "vid": "738d0cc1a3e9430a9de2b544a466a7fc"
+            },
+            {
+                "name": "企业雷军2",
+                "desc": "企业家雷军,Are you Ok?",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c4754c2f67574efa8c5dcb7a49294823",
+                "vid": "c4754c2f67574efa8c5dcb7a49294823"
+            },
+            {
+                "name": "千手扉间",
+                "desc": "千手扉间",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cd38149b17c54e508a2e52180ef1b31e",
+                "vid": "cd38149b17c54e508a2e52180ef1b31e"
+            },
+            {
+                "name": "千早爱音",
+                "desc": "千早爱音中文改进型mk.I",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a38d932d051940f2a93ba7fae7a16c44",
+                "vid": "a38d932d051940f2a93ba7fae7a16c44"
+            },
+            {
+                "name": "千早爱音",
+                "desc": "千早爱音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c5c17c9709384ba9a4b294662a2af0b1",
+                "vid": "c5c17c9709384ba9a4b294662a2af0b1"
+            },
+            {
+                "name": "秦彻本",
+                "desc": "秦彻本",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2f910bb142e346b8b5f489233edc80cc",
+                "vid": "2f910bb142e346b8b5f489233edc80cc"
+            },
+            {
+                "name": "秦彻实验",
+                "desc": "秦彻实验",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f12a343c566646b986f4b9b66209a6f5",
+                "vid": "f12a343c566646b986f4b9b66209a6f5"
+            },
+            {
+                "name": "容嬷嬷",
+                "desc": "容嬷嬷",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2cb3d952369d43518fd196ec248abcfa",
+                "vid": "2cb3d952369d43518fd196ec248abcfa"
+            },
+            {
+                "name": "如来",
+                "desc": "如来（86版西游记）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3df8cba60ce44bf99a816f51bf57a350",
+                "vid": "3df8cba60ce44bf99a816f51bf57a350"
+            },
+            {
+                "name": "撒贝宁",
+                "desc": "撒贝宁",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9a32f25d901e48e0885dbda99b08593a",
+                "vid": "9a32f25d901e48e0885dbda99b08593a"
+            },
+            {
+                "name": "塞罗超人",
+                "desc": "塞罗奥特曼",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3977b56128c843caa7538959c7e8fce5",
+                "vid": "3977b56128c843caa7538959c7e8fce5"
+            },
+            {
+                "name": "赛马娘",
+                "desc": "我是赛马娘,哦,慢波",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0eb38bc974e1459facca38b359e13511",
+                "vid": "0eb38bc974e1459facca38b359e13511"
+            },
+            {
+                "name": "赛马娘2",
+                "desc": "赛马娘（华仔）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ff463241e0c746b68bba31923ef47c36",
+                "vid": "ff463241e0c746b68bba31923ef47c36"
+            },
+            {
+                "name": "散兵",
+                "desc": "我是散兵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a72bc08367664e96b8bf8b6dba754bc5",
+                "vid": "a72bc08367664e96b8bf8b6dba754bc5"
+            },
+            {
+                "name": "烧姐姐",
+                "desc": "女声-很烧的姐姐",
+                "img": "https://public-platform.r2.fish.audio/coverimage/60d377ebaae44829ad4425033b94fdea",
+                "vid": "60d377ebaae44829ad4425033b94fdea"
+            },
+            {
+                "name": "少女音",
+                "desc": "少女音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/735ff0c7266b41d8809854bc68eec109",
+                "vid": "735ff0c7266b41d8809854bc68eec109"
+            },
+            {
+                "name": "少羽",
+                "desc": "我直接拿筷子塞进你m",
+                "img": "https://public-platform.r2.fish.audio/coverimage/31824b0e12c94c5082908b2c684759e1",
+                "vid": "31824b0e12c94c5082908b2c684759e1"
+            },
+            {
+                "name": "舌尖配音",
+                "desc": "舌尖上的配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0d1fbd9ac3ef4ae593f97ca26a47ec08",
+                "vid": "0d1fbd9ac3ef4ae593f97ca26a47ec08"
+            },
+            {
+                "name": "舌尖中国",
+                "desc": "舌尖上的中国",
+                "img": "https://public-platform.r2.fish.audio/coverimage/408ba70690794272b790ad9e3c9a1160",
+                "vid": "408ba70690794272b790ad9e3c9a1160"
+            },
+            {
+                "name": "黑神话悟空",
+                "desc": "黑神话悟空",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9308aef68a4d4f18a7732bef8fcc460e",
+                "vid": "9308aef68a4d4f18a7732bef8fcc460e"
+            },
+            {
+                "name": "黑神话悟空·四妹",
+                "desc": "黑神话悟空·四妹",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a67567535aca46c8afa97a3e6e512389",
+                "vid": "a67567535aca46c8afa97a3e6e512389"
+            },
+            {
+                "name": "黑悟空",
+                "desc": "黑悟空",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cbc930548d6a4650a1304ba0c040a812",
+                "vid": "cbc930548d6a4650a1304ba0c040a812"
+            },
+            {
+                "name": "黑悟空（完美）",
+                "desc": "黑悟空（完美）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e0047e06304749a1912a7fcfb018a7f2",
+                "vid": "e0047e06304749a1912a7fcfb018a7f2"
+            },
+            {
+                "name": "神鹰",
+                "desc": "是不是自认高人一等了啊？装逼我让你飞起来。敢不敢跟我比划比划啊，我想知道这个，什么叫噩梦缠绕，你真是没见过黑社，没见过黑社会呀",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f420ce6f84424c93af23582d93412c80",
+                "vid": "f420ce6f84424c93af23582d93412c80"
+            },
+            {
+                "name": "神鹰黑手哥",
+                "desc": "是不是自认高人一等了啊？装逼我让你飞起来。敢不敢跟我比划比划啊，我想知道这个，什么叫噩梦缠绕，你真是没见过黑社，没见过黑社会呀",
+                "img": "https://public-platform.r2.fish.audio/coverimage/546ed9a5e10b4234b0f8ccc3de860700",
+                "vid": "546ed9a5e10b4234b0f8ccc3de860700"
+            },
+            {
+                "name": "沈腾",
+                "desc": "沈腾",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3b800339d9bc4d5f8365d976ab96fc0b",
+                "vid": "3b800339d9bc4d5f8365d976ab96fc0b"
+            },
+            {
+                "name": "诗歌剧",
+                "desc": "诗歌剧",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8e0779320ffa4b64b5c10c2cb8910d37",
+                "vid": "8e0779320ffa4b64b5c10c2cb8910d37"
+            },
+            {
+                "name": "书籍介绍女声",
+                "desc": "书籍介绍女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/834ae1352abf43a1873ad27f60f0910a",
+                "vid": "834ae1352abf43a1873ad27f60f0910a"
+            },
+            {
+                "name": "舒服的男声",
+                "desc": "舒服的男声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4ddfa1f451f04d85b809dcad9d76e91f",
+                "vid": "4ddfa1f451f04d85b809dcad9d76e91f"
+            },
+            {
+                "name": "数学白老师",
+                "desc": "数学白老师",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c5656ac5562a421a9eddab4d2667df1f",
+                "vid": "c5656ac5562a421a9eddab4d2667df1f"
+            },
+            {
+                "name": "宋雨琦",
+                "desc": "宋雨琦",
+                "img": "https://public-platform.r2.fish.audio/coverimage/08f18a5692544543a6ca5fdd1eaa328c",
+                "vid": "08f18a5692544543a6ca5fdd1eaa328c"
+            },
+            {
+                "name": "孙笑川1",
+                "desc": "孙笑川",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cffbce6b2f004f9480ab284516ef1e7b",
+                "vid": "cffbce6b2f004f9480ab284516ef1e7b"
+            },
+            {
+                "name": "孙笑川2",
+                "desc": "我是孙笑川,你们都懂我",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e80ea225770f42f79d50aa98be3cedfc",
+                "vid": "e80ea225770f42f79d50aa98be3cedfc"
+            },
+            {
+                "name": "台湾方言",
+                "desc": "台湾方言",
+                "img": "https://public-platform.r2.fish.audio/coverimage/47b571e43ae04746b72063e987e29ebc",
+                "vid": "47b571e43ae04746b72063e987e29ebc"
+            },
+            {
+                "name": "唐国强中强",
+                "desc": "唐国强中强",
+                "img": "https://public-platform.r2.fish.audio/coverimage/947579bad995455198c70d1be26cc8d9",
+                "vid": "947579bad995455198c70d1be26cc8d9"
+            },
+            {
+                "name": "唐僧",
+                "desc": "一边情况下经常适量的吃肉对身体是有好处的",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c8aea63ceb124be9a370efdcc7197db5",
+                "vid": "c8aea63ceb124be9a370efdcc7197db5"
+            },
+            {
+                "name": "特朗普",
+                "desc": "特朗普阿",
+                "img": "https://public-platform.r2.fish.audio/coverimage/114b73c6daaf42f5971b665d3a02e9b7",
+                "vid": "114b73c6daaf42f5971b665d3a02e9b7"
+            },
+            {
+                "name": "提神女声",
+                "desc": "产品宣传片-提神女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/aaa5c166f60045ae87f57c6b6c595e39",
+                "vid": "aaa5c166f60045ae87f57c6b6c595e39"
+            },
+            {
+                "name": "天皇笑川",
+                "desc": "日本天皇孙笑川(改进版)",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d23d6b53ad1f4d41a43d81039e0e3cf3",
+                "vid": "d23d6b53ad1f4d41a43d81039e0e3cf3"
+            },
+            {
+                "name": "天童丽丝",
+                "desc": "天童爱丽丝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4fc0bf3230884ee28795d5c7fd4a3a91",
+                "vid": "4fc0bf3230884ee28795d5c7fd4a3a91"
+            },
+            {
+                "name": "天童丽丝2",
+                "desc": "天童爱丽丝（扫地机器人、女儿）（中配）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5f4db3a28aaf4e76a50aef1cc35dc387",
+                "vid": "5f4db3a28aaf4e76a50aef1cc35dc387"
+            },
+            {
+                "name": "甜美女声",
+                "desc": "甜美女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5a5f9f8cd244462493916d5652e7c913",
+                "vid": "5a5f9f8cd244462493916d5652e7c913"
+            },
+            {
+                "name": "甜美女主播",
+                "desc": "甜美女主播",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e752df7d20cd4576af9a207520349a33",
+                "vid": "e752df7d20cd4576af9a207520349a33"
+            },
+            {
+                "name": "童锦程",
+                "desc": "江南第一深情童锦程",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d32525b3332d4f15934810be82a25b9c",
+                "vid": "d32525b3332d4f15934810be82a25b9c"
+            },
+            {
+                "name": "王大锤",
+                "desc": "王大锤",
+                "img": "https://public-platform.r2.fish.audio/coverimage/eecda9aca2094beda4e065b602be024d",
+                "vid": "eecda9aca2094beda4e065b602be024d"
+            },
+            {
+                "name": "王一博",
+                "desc": "王一博",
+                "img": "https://public-platform.r2.fish.audio/coverimage/9cb5d5a013294553b3ed6631806dffa7",
+                "vid": "9cb5d5a013294553b3ed6631806dffa7"
+            },
+            {
+                "name": "王允",
+                "desc": "王允",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0b1ae1edcd284c02a05f09111fe1e300",
+                "vid": "0b1ae1edcd284c02a05f09111fe1e300"
+            },
+            {
+                "name": "王者荣耀芈月",
+                "desc": "芈月2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8addf161de62452ea4a372ed25f8e3a6",
+                "vid": "8addf161de62452ea4a372ed25f8e3a6"
+            },
+            {
+                "name": "王者荣耀",
+                "desc": "王者荣耀语音播报",
+                "img": "https://public-platform.r2.fish.audio/coverimage/586ac270aa424abb8e4605afb19f9dc7",
+                "vid": "586ac270aa424abb8e4605afb19f9dc7"
+            },
+            {
+                "name": "王者荣耀西施",
+                "desc": "王者荣耀西施2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7c22610883d2484ea17ce870da91de85",
+                "vid": "7c22610883d2484ea17ce870da91de85"
+            },
+            {
+                "name": "网红丁真",
+                "desc": "我是顶针,我擦你们马",
+                "img": "https://public-platform.r2.fish.audio/coverimage/54a5170264694bfc8e9ad98df7bd89c3",
+                "vid": "54a5170264694bfc8e9ad98df7bd89c3"
+            },
+            {
+                "name": "云希",
+                "desc": "云希",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7d06e448c20c448980851e3cefc895ce",
+                "vid": "7d06e448c20c448980851e3cefc895ce"
+            },
+            {
+                "name": "温柔男声",
+                "desc": "温柔男声·讲故事",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d99547e2dad64ce0aa085319a3c9cc56",
+                "vid": "d99547e2dad64ce0aa085319a3c9cc56"
+            },
+            {
+                "name": "温柔女生",
+                "desc": "温柔女生",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cca1aedded48416595a3d9bd5c5413ef",
+                "vid": "cca1aedded48416595a3d9bd5c5413ef"
+            },
+            {
+                "name": "温柔女声",
+                "desc": "温柔女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/26c259f0f07247c98899ae4cfa1774be",
+                "vid": "26c259f0f07247c98899ae4cfa1774be"
+            },
+            {
+                "name": "温柔女声",
+                "desc": "说话抑扬顿挫,语气温柔动听的女孩子",
+                "img": "https://public-platform.r2.fish.audio/coverimage/faccba1a8ac54016bcfc02761285e67f",
+                "vid": "faccba1a8ac54016bcfc02761285e67f"
+            },
+            {
+                "name": "老爹",
+                "desc": "老爹",
+                "img": "https://public-platform.r2.fish.audio/coverimage/37a1a442896f411084703a8c81d23214",
+                "vid": "37a1a442896f411084703a8c81d23214"
+            },
+            {
+                "name": "武僧小姐",
+                "desc": "武僧（易）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0f3f89619f7045aca0594264e2ab0122",
+                "vid": "0f3f89619f7045aca0594264e2ab0122"
+            },
+            {
+                "name": "西瓜摊老板（郝哥）",
+                "desc": "西瓜摊老板（郝哥）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c8ede654946a4c659788967fc591d77c",
+                "vid": "c8ede654946a4c659788967fc591d77c"
+            },
+            {
+                "name": "希儿",
+                "desc": "希儿",
+                "img": "https://public-platform.r2.fish.audio/coverimage/db9193283daf43a6bc45bffc0b30bec7",
+                "vid": "db9193283daf43a6bc45bffc0b30bec7"
+            },
+            {
+                "name": "希格雯",
+                "desc": "希格雯",
+                "img": "https://public-platform.r2.fish.audio/coverimage/c503b9b8d4c240f6a6bf2658d11f470b",
+                "vid": "c503b9b8d4c240f6a6bf2658d11f470b"
+            },
+            {
+                "name": "下江小春",
+                "desc": "下江小春（中配）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8f56fdbed625436da785af76f6a355bd",
+                "vid": "8f56fdbed625436da785af76f6a355bd"
+            },
+            {
+                "name": "咸鱼梦想家",
+                "desc": "兄弟们终于吃上鸡架泡饭了",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1b662dee791641d4b89250f293c01178",
+                "vid": "1b662dee791641d4b89250f293c01178"
+            },
+            {
+                "name": "萧炎",
+                "desc": "萧炎",
+                "img": "https://public-platform.r2.fish.audio/coverimage/aded62e8c2024a6f881ce7cf37217d18",
+                "vid": "aded62e8c2024a6f881ce7cf37217d18"
+            },
+            {
+                "name": "萧逸",
+                "desc": "萧逸",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7ad1955a517d477790365845ff31bf0d",
+                "vid": "7ad1955a517d477790365845ff31bf0d"
+            },
+            {
+                "name": "魈",
+                "desc": "魈",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6d81d88a593f4814be7eeee7d4d883da",
+                "vid": "6d81d88a593f4814be7eeee7d4d883da"
+            },
+            {
+                "name": "小美带货",
+                "desc": "小美带货",
+                "img": "https://public-platform.r2.fish.audio/coverimage/88304573523a439a8d02cf0039e2ca3f",
+                "vid": "88304573523a439a8d02cf0039e2ca3f"
+            },
+            {
+                "name": "温柔女声",
+                "desc": "小米宣传片-温柔女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a97f5ab216614899ac3bc72e3dcc0257",
+                "vid": "a97f5ab216614899ac3bc72e3dcc0257"
+            },
+            {
+                "name": "新闻联播潘涛",
+                "desc": "央视新闻联播潘涛",
+                "img": "https://public-platform.r2.fish.audio/coverimage/004d5b98eafa42788d3cc2ea8739e9aa",
+                "vid": "004d5b98eafa42788d3cc2ea8739e9aa"
+            },
+            {
+                "name": "新闻频道-播报女",
+                "desc": "CCTV13新闻频道-播报女",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e3dba7c2cae54176a2068f66f8768fee",
+                "vid": "e3dba7c2cae54176a2068f66f8768fee"
+            },
+            {
+                "name": "琪亚娜",
+                "desc": "琪亚娜_薪炎之律者",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d36924addc4f4d83bacde7d97a9b4e5d",
+                "vid": "d36924addc4f4d83bacde7d97a9b4e5d"
+            },
+            {
+                "name": "熊大",
+                "desc": "我是熊大",
+                "img": "https://public-platform.r2.fish.audio/coverimage/a25c6613f79a4cfea5a2531243e5454c",
+                "vid": "a25c6613f79a4cfea5a2531243e5454c"
+            },
+            {
+                "name": "熊二",
+                "desc": "我是熊二",
+                "img": "https://public-platform.r2.fish.audio/coverimage/97254bcb06f042eb8350b12780556d8a",
+                "vid": "97254bcb06f042eb8350b12780556d8a"
+            },
+            {
+                "name": "我的世界的村民",
+                "desc": "我的世界的村民",
+                "img": "https://public-platform.r2.fish.audio/coverimage/597b9636526d40ccaa8f92d3ceb74e4b",
+                "vid": "597b9636526d40ccaa8f92d3ceb74e4b"
+            },
+            {
+                "name": "我的世界村民唱歌黑社会版",
+                "desc": "我的世界村民唱歌黑社会版（没有bug）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/3858e099576447ab83820eef68523ced",
+                "vid": "3858e099576447ab83820eef68523ced"
+            },
+            {
+                "name": "我的世界村民",
+                "desc": "我的世界村民",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f2b81789f2b24f08bd1566a75dba5573",
+                "vid": "f2b81789f2b24f08bd1566a75dba5573"
+            },
+            {
+                "name": "旭旭宝宝",
+                "desc": "抖音旭旭宝宝",
+                "img": "https://public-platform.r2.fish.audio/coverimage/44caa9290eed4902be98b5f9ad5a7db3",
+                "vid": "44caa9290eed4902be98b5f9ad5a7db3"
+            },
+            {
+                "name": "宣传片解说",
+                "desc": "【宣传片】（大气走心洋气）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/96f3b27c6cd74ed08409d2ba0bebf408",
+                "vid": "96f3b27c6cd74ed08409d2ba0bebf408"
+            },
+            {
+                "name": "宣传片",
+                "desc": "宣传片",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4b9aade3d47f4067a5498b955787cb7a",
+                "vid": "4b9aade3d47f4067a5498b955787cb7a"
+            },
+            {
+                "name": "宣传片2",
+                "desc": "宣传片重点配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5578e9470bda42938aa8c2e832ff0e80",
+                "vid": "5578e9470bda42938aa8c2e832ff0e80"
+            },
+            {
+                "name": "薛之谦",
+                "desc": "我是歌手薛之谦",
+                "img": "https://public-platform.r2.fish.audio/coverimage/61b33c9a45324f69a22dbb5f91a526d0",
+                "vid": "61b33c9a45324f69a22dbb5f91a526d0"
+            },
+            {
+                "name": "亚托克斯",
+                "desc": "剑魔亚托克斯",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ffb55be33cbb4af19b07e9a0ef64dab1",
+                "vid": "ffb55be33cbb4af19b07e9a0ef64dab1"
+            },
+            {
+                "name": "亚托克斯2",
+                "desc": "剑魔亚托克斯",
+                "img": "https://public-platform.r2.fish.audio/coverimage/26bc965a599549f5b3bde772cbf251bd",
+                "vid": "26bc965a599549f5b3bde772cbf251bd"
+            },
+            {
+                "name": "央视栏目男播音",
+                "desc": "央视栏目男播音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/19894eb5486b4944aed768e3a578c20e",
+                "vid": "19894eb5486b4944aed768e3a578c20e"
+            },
+            {
+                "name": "央视配音",
+                "desc": "我是央视配音,播音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/59cb5986671546eaa6ca8ae6f29f6d22",
+                "vid": "59cb5986671546eaa6ca8ae6f29f6d22"
+            },
+            {
+                "name": "杨幂",
+                "desc": "我是演员杨幂",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fa756c4628b94b7394d1822e5848cf59",
+                "vid": "fa756c4628b94b7394d1822e5848cf59"
+            },
+            {
+                "name": "药水哥",
+                "desc": "我是药水哥",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d04462c5f70f492eb741aef7ab638f2c",
+                "vid": "d04462c5f70f492eb741aef7ab638f2c"
+            },
+            {
+                "name": "夜兰",
+                "desc": "夜兰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7cfdab0dfbed4fc0bbc4ddf8d211e0f2",
+                "vid": "7cfdab0dfbed4fc0bbc4ddf8d211e0f2"
+            },
+            {
+                "name": "伊蕾娜伊",
+                "desc": "伊蕾娜伊蕾娜",
+                "img": "https://public-platform.r2.fish.audio/coverimage/0cdc4b148a0c4ff98651e21f9edffdac",
+                "vid": "0cdc4b148a0c4ff98651e21f9edffdac"
+            },
+            {
+                "name": "易烊千玺",
+                "desc": "易烊千玺",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f14ee3f62ab0434491f16d1b01cfa3ba",
+                "vid": "f14ee3f62ab0434491f16d1b01cfa3ba"
+            },
+            {
+                "name": "营销号阿",
+                "desc": "营销号",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8f802a63b742478f8c46c6a0453d33b0",
+                "vid": "8f802a63b742478f8c46c6a0453d33b0"
+            },
+            {
+                "name": "永雏塔菲",
+                "desc": "我是永雏塔菲,B站虚拟Up主",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e1cfccf59a1c4492b5f51c7c62a8abd2",
+                "vid": "e1cfccf59a1c4492b5f51c7c62a8abd2"
+            },
+            {
+                "name": "御姐",
+                "desc": "御姐11",
+                "img": "https://public-platform.r2.fish.audio/coverimage/288b70638ff04a5ab02cf0a6a6046c9d",
+                "vid": "288b70638ff04a5ab02cf0a6a6046c9d"
+            },
+            {
+                "name": "御姐音",
+                "desc": "御姐音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f75b4b35dc7842e7b208c88415e987e6",
+                "vid": "f75b4b35dc7842e7b208c88415e987e6"
+            },
+            {
+                "name": "袁绍",
+                "desc": "袁绍",
+                "img": "https://public-platform.r2.fish.audio/coverimage/85c1b5f44b244db485755c8b3eb03d3c",
+                "vid": "85c1b5f44b244db485755c8b3eb03d3c"
+            },
+            {
+                "name": "圆圆老师",
+                "desc": "圆圆老师",
+                "img": "https://public-platform.r2.fish.audio/coverimage/20efc96a05f7410bb4ce1d7229cd0597",
+                "vid": "20efc96a05f7410bb4ce1d7229cd0597"
+            },
+            {
+                "name": "岳云鹏",
+                "desc": "岳云鹏",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d52f4e41dc3e45c7b7cf54785062d817",
+                "vid": "d52f4e41dc3e45c7b7cf54785062d817"
+            },
+            {
+                "name": "早赖优香",
+                "desc": "早赖优香（邮箱）（中配）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/bd63b7c52c7748309eacd0e6a801e1c2",
+                "vid": "bd63b7c52c7748309eacd0e6a801e1c2"
+            },
+            {
+                "name": "战神吕布",
+                "desc": "吕布",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2d02fcd7f39c4b96bb3be11effd1a4bb",
+                "vid": "2d02fcd7f39c4b96bb3be11effd1a4bb"
+            },
+            {
+                "name": "战双万事",
+                "desc": "战双万事",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4dcd4bfa0b6d483695a715dfc1646fc8",
+                "vid": "4dcd4bfa0b6d483695a715dfc1646fc8"
+            },
+            {
+                "name": "张德山",
+                "desc": "张德山（李云龙）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/22e8eb5f1f424c749592cd9db3927368",
+                "vid": "22e8eb5f1f424c749592cd9db3927368"
+            },
+            {
+                "name": "张飞",
+                "desc": "张飞",
+                "img": "https://public-platform.r2.fish.audio/coverimage/2d8d663bcb664f1d862cc20147703bbb",
+                "vid": "2d8d663bcb664f1d862cc20147703bbb"
+            },
+            {
+                "name": "张飞2",
+                "desc": "张飞（激动）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/68fef9224cbf444fa73a40ce75c7c29d",
+                "vid": "68fef9224cbf444fa73a40ce75c7c29d"
+            },
+            {
+                "name": "张家辉新",
+                "desc": "张家辉新",
+                "img": "https://public-platform.r2.fish.audio/coverimage/47a170cf86c54e4d861cf80a25838403",
+                "vid": "47a170cf86c54e4d861cf80a25838403"
+            },
+            {
+                "name": "张杰",
+                "desc": "张杰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/8324358ea5e44eef8517d2b42e0aa3c1",
+                "vid": "8324358ea5e44eef8517d2b42e0aa3c1"
+            },
+            {
+                "name": "张颂文",
+                "desc": "风浪越大鱼越贵",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5f660568b6b14a5fbaa6e9d59d0d11ec",
+                "vid": "5f660568b6b14a5fbaa6e9d59d0d11ec"
+            },
+            {
+                "name": "张雪峰",
+                "desc": "张雪峰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/01f6deb6f58546598dbf77cc0b40304d",
+                "vid": "01f6deb6f58546598dbf77cc0b40304d"
+            },
+            {
+                "name": "张译",
+                "desc": "张译",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5f1ade0c8b92443b8572362cebbefcc9",
+                "vid": "5f1ade0c8b92443b8572362cebbefcc9"
+            },
+            {
+                "name": "张作霖",
+                "desc": "张作霖配音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cffe3becf78247508086051a0c327dd0",
+                "vid": "cffe3becf78247508086051a0c327dd0"
+            },
+            {
+                "name": "章鱼哥2",
+                "desc": "章鱼哥2",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cf892bb4b20442dda07abf4024c2a1e4",
+                "vid": "cf892bb4b20442dda07abf4024c2a1e4"
+            },
+            {
+                "name": "长离",
+                "desc": "长离",
+                "img": "https://public-platform.r2.fish.audio/coverimage/227cc30c97084e9388e10bd4e21c1a06",
+                "vid": "227cc30c97084e9388e10bd4e21c1a06"
+            },
+            {
+                "name": "长篇解说男音",
+                "desc": "电影长篇解说男音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/ed3527e29f35494dbb08ec31e30bf4d6",
+                "vid": "ed3527e29f35494dbb08ec31e30bf4d6"
+            },
+            {
+                "name": "长崎素世",
+                "desc": "长崎素世,初期夹子改进型mk1,兼容中文汉语",
+                "img": "https://public-platform.r2.fish.audio/coverimage/d84afd1a25984bdfb285871337ad6fd3",
+                "vid": "d84afd1a25984bdfb285871337ad6fd3"
+            },
+            {
+                "name": "赵本山",
+                "desc": "我的妈呀",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1b201a747d2e4f048b51724bbb333b96",
+                "vid": "1b201a747d2e4f048b51724bbb333b96"
+            },
+            {
+                "name": "甄嬛",
+                "desc": "甄嬛（未入宫）",
+                "img": "https://public-platform.r2.fish.audio/coverimage/89793ca3382f4d1aa797835e83e857bf",
+                "vid": "89793ca3382f4d1aa797835e83e857bf"
+            },
+            {
+                "name": "甄嬛2",
+                "desc": "甄嬛传皇后",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7ee223d1135b451680d4df1b1708117b",
+                "vid": "7ee223d1135b451680d4df1b1708117b"
+            },
+            {
+                "name": "甄嬛3",
+                "desc": "甄嬛传皇上",
+                "img": "https://public-platform.r2.fish.audio/coverimage/7f16c5dc3a49462e9404d44662b9c11d",
+                "vid": "7f16c5dc3a49462e9404d44662b9c11d"
+            },
+            {
+                "name": "知性女声",
+                "desc": "知性女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/da2da0b1f3764a9c9eff55bd87370fac",
+                "vid": "da2da0b1f3764a9c9eff55bd87370fac"
+            },
+            {
+                "name": "治愈放松女声",
+                "desc": "治愈放松女声",
+                "img": "https://public-platform.r2.fish.audio/coverimage/cb73f2bb9bf447f492f118bf362c10b4",
+                "vid": "cb73f2bb9bf447f492f118bf362c10b4"
+            },
+            {
+                "name": "宇智波佐助",
+                "desc": "宇智波佐助",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f30906002b14486a894f78f958d0329c",
+                "vid": "f30906002b14486a894f78f958d0329c"
+            },
+            {
+                "name": "智慧老人",
+                "desc": "智慧老人无淡出",
+                "img": "https://public-platform.r2.fish.audio/coverimage/f189acb3bfd940d9a918ad470b628dd7",
+                "vid": "f189acb3bfd940d9a918ad470b628dd7"
+            },
+            {
+                "name": "智慧羊",
+                "desc": "智羊羊",
+                "img": "https://public-platform.r2.fish.audio/coverimage/e15068100ca8438f9eb64b2a5f990e7a",
+                "vid": "e15068100ca8438f9eb64b2a5f990e7a"
+            },
+            {
+                "name": "中年大叔东哥",
+                "desc": "中年大叔东哥的声音",
+                "img": "https://public-platform.r2.fish.audio/coverimage/6869ac4a0e214563b42c9126bbbb4c4f",
+                "vid": "6869ac4a0e214563b42c9126bbbb4c4f"
+            },
+            {
+                "name": "钟离",
+                "desc": "钟离",
+                "img": "https://public-platform.r2.fish.audio/coverimage/305ffec2625549318ab031c956aa9577",
+                "vid": "305ffec2625549318ab031c956aa9577"
+            },
+            {
+                "name": "周杰伦",
+                "desc": "我是歌手周杰伦",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1512d05841734931bf905d0520c272b1",
+                "vid": "1512d05841734931bf905d0520c272b1"
+            },
+            {
+                "name": "周涛",
+                "desc": "周涛-纪录片中国",
+                "img": "https://public-platform.r2.fish.audio/coverimage/5d07e8c1a1654268882ed75c81cbcd83",
+                "vid": "5d07e8c1a1654268882ed75c81cbcd83"
+            },
+            {
+                "name": "周星驰",
+                "desc": "我是演员周星驰",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1a5dbf4c3ebc482abf9f2f07b4f463f5",
+                "vid": "1a5dbf4c3ebc482abf9f2f07b4f463f5"
+            },
+            {
+                "name": "周星驰2",
+                "desc": "大家好,我是周星驰。",
+                "img": "https://public-platform.r2.fish.audio/coverimage/060904c7e7704de9925636c8ac197e5e",
+                "vid": "060904c7e7704de9925636c8ac197e5e"
+            },
+            {
+                "name": "诸葛亮",
+                "desc": "诸葛亮",
+                "img": "https://public-platform.r2.fish.audio/coverimage/61233220be1d4a22923624802a3847e5",
+                "vid": "61233220be1d4a22923624802a3847e5"
+            },
+            {
+                "name": "诸葛亮2",
+                "desc": "诸葛亮1",
+                "img": "https://public-platform.r2.fish.audio/coverimage/045381612dcc439dbf91cd3a1aca663f",
+                "vid": "045381612dcc439dbf91cd3a1aca663f"
+            },
+            {
+                "name": "猪八戒",
+                "desc": "猪八戒",
+                "img": "https://public-platform.r2.fish.audio/coverimage/62e4f1959ec04fc7824781b1d31c5609",
+                "vid": "62e4f1959ec04fc7824781b1d31c5609"
+            },
+            {
+                "name": "猪猪侠",
+                "desc": "我是猪猪侠",
+                "img": "https://public-platform.r2.fish.audio/coverimage/fa9f9300cc094d059b42fce5de76a843",
+                "vid": "fa9f9300cc094d059b42fce5de76a843"
+            },
+            {
+                "name": "第五主播犹太",
+                "desc": "第五主播犹太",
+                "img": "https://public-platform.r2.fish.audio/coverimage/b2302030c79e465faf92945c52e78101",
+                "vid": "b2302030c79e465faf92945c52e78101"
+            },
+            {
+                "name": "王者荣耀李白",
+                "desc": "王者荣耀",
+                "img": "https://public-platform.r2.fish.audio/coverimage/1616633550dc46e4917b96093d8284a0",
+                "vid": "1616633550dc46e4917b96093d8284a0"
+            },
+            {
+                "name": "丁蛋蛋",
+                "desc": "个人录制",
+                "img": "",
+                "vid": "9d20c4bb712e479c8ab2c1c062bbc4c0"
+            }
+        ]
+    },
+    "PKC": {
+        "token": "yes",
+        "sort": "2",
+        "desc": "自定义FV音色，音色来源于网络。",
+        "url": "https://fineshare.ai/fv/?s=kzHqK",
+        "alias": "FV",
+        "type": "FineVoice",
+        "list": [
+            {
+                "name": "小酱紫",
+                "desc": "你好，我是小酱紫，嗲嗲甜欲类型",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/90b64f70-2ffe-4e1f-b0aa-7dfc7e968ff4.webp",
+                "vid": "90b64f70-2ffe-4e1f-b0aa-7dfc7e968ff4"
+            },
+            {
+                "name": "小七",
+                "desc": "你好，我是小七，嗲嗲的声音",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/9945b84e-5144-48dd-acd9-0b5ce6656dbb.webp",
+                "vid": "9945b84e-5144-48dd-acd9-0b5ce6656dbb"
+            },
+            {
+                "name": "小野猫",
+                "desc": "你好，我是小野猫，撒娇甜欲类型",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/3732a526-9842-4998-9885-29f97d216429.webp",
+                "vid": "3732a526-9842-4998-9885-29f97d216429"
+            },
+            {
+                "name": "小妍",
+                "desc": "不敢顶撞哥哥，但敢跟哥哥顶撞",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/de58d8dd-5794-4738-a01a-028f9d705354.webp",
+                "vid": "de58d8dd-5794-4738-a01a-028f9d705354"
+            }
+        ]
+    },
+    "iOS小萝卜": {
+        "token": "yes",
+        "sort": "3",
+        "desc": "自定义FV音色",
+        "url": "https://fineshare.ai/fv/?s=kzHqK",
+        "alias": "FV",
+        "type": "FineVoice",
+        "list": [
+            {
+                "name": "iOS小萝卜",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/ios-5110.webp",
+                "vid": "ios-5110"
+            },
+            {
+                "name": "小贝",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/8b603a57-61f5-45cd-aaa9-3012b3c93772-5111.webp",
+                "vid": "8b603a57-61f5-45cd-aaa9-3012b3c93772-5111"
+            },
+            {
+                "name": "IOS小姐姐",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/ios-5112.webp",
+                "vid": "ios-5112"
+            },
+            {
+                "name": "昕姐",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/4e7203c2-1ed9-4fff-bb63-9123855ee03d-5277.webp",
+                "vid": "4e7203c2-1ed9-4fff-bb63-9123855ee03d-5277"
+            },
+            {
+                "name": "谦哥",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/16e81d5d-cd59-4431-9df0-5d8912a04964-5276.webp",
+                "vid": "16e81d5d-cd59-4431-9df0-5d8912a04964-5276"
+            },
+            {
+                "name": "白白",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/0d848673-110d-408b-8052-6d418332378c-5272.webp",
+                "vid": "0d848673-110d-408b-8052-6d418332378c-5272"
+            },
+            {
+                "name": "老磊子",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/662e2146-1096-4416-807b-60a2bd315c5d-5275.webp",
+                "vid": "662e2146-1096-4416-807b-60a2bd315c5d-5275"
+            },
+            {
+                "name": "桀骜不驯李公子",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/1119cba3-e3c2-4c96-919d-14bdc3504970-5274.webp",
+                "vid": "1119cba3-e3c2-4c96-919d-14bdc3504970-5274"
+            },
+            {
+                "name": "毕竟我是郭二黑",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/49719849-0771-433f-b69d-44e662578abc-5273.webp",
+                "vid": "49719849-0771-433f-b69d-44e662578abc-5273"
+            },
+            {
+                "name": "小杨哥",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/527e2c49-fa29-47bc-9025-3bca34d740b9-4672.webp",
+                "vid": "527e2c49-fa29-47bc-9025-3bca34d740b9-4672"
+            },
+            {
+                "name": "军哥",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/c44b0f7b-8bc0-4130-a8f9-63ec88873425-4734.webp",
+                "vid": "c44b0f7b-8bc0-4130-a8f9-63ec88873425-4734"
+            },
+            {
+                "name": "汉堡",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/6ee10ca2-f334-45b3-98f5-679db2e66eb5-4812.webp",
+                "vid": "6ee10ca2-f334-45b3-98f5-679db2e66eb5-4812"
+            },
+            {
+                "name": "野原葵之助",
+                "desc": "个人录制",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/102e9a38-3d36-453d-9ade-60bcff5a5411-4810.webp",
+                "vid": "102e9a38-3d36-453d-9ade-60bcff5a5411-4810"
+            },
+            {
+                "name": "邓紫棋",
+                "desc": "华语流行乐女歌手,词曲作者,音乐制作人",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/71e6b598-bcfa-4f0a-b2ef-5c0a1e43d320-4828.webp",
+                "vid": "71e6b598-bcfa-4f0a-b2ef-5c0a1e43d320-4828"
+            },
+            {
+                "name": "雷军",
+                "desc": "企业家",
+                "img": "https://public-platform.r2.fish.audio/coverimage/4d1fbf1688f34ef28f976304a7b26e61",
+                "vid": "e5aabeb5-7d2e-40c1-9f04-677fea5316f8-4786"
+            },
+            {
+                "name": "蔡徐坤",
+                "desc": "中国内地男歌手,演员,原创音乐制作人",
+                "img": "https://public-platform.r2.fish.audio/coverimage/33af4e451eb845f08f828827295b93e5",
+                "vid": "e28013f0-64cc-4779-bab7-bdf5b37fc64b-4790"
+            },
+            {
+                "name": "卢本伟",
+                "desc": "前《英雄联盟》职业选手,游戏主播",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/662f85bb-4135-43c7-a4a3-3d77f3eec285-4822.webp",
+                "vid": "662f85bb-4135-43c7-a4a3-3d77f3eec285-4822"
+            },
+            {
+                "name": "逆水寒女主角",
+                "desc": "逆水寒手游女主角",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/92ffaafe-b43f-45cf-b9cb-903378dad53e-5316.webp",
+                "vid": "92ffaafe-b43f-45cf-b9cb-903378dad53e-5316"
+            },
+            {
+                "name": "鱼蛋",
+                "desc": "我有d挂住你啊！靓仔",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/5747466e-042f-4bc4-90ce-b31396138f89.webp",
+                "vid": "5747466e-042f-4bc4-90ce-b31396138f89"
+            },
+            {
+                "name": "野猫三三",
+                "desc": "撒娇的野猫三三",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/ac149b81-ee67-4f71-a90b-460743de3caa.webp",
+                "vid": "ac149b81-ee67-4f71-a90b-460743de3caa"
+            },
+            {
+                "name": "孟太奇",
+                "desc": "甜御语音",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/455b39b3-6d6b-4e70-a9fb-ea5b4cd54f96.webp",
+                "vid": "455b39b3-6d6b-4e70-a9fb-ea5b4cd54f96"
+            },
+            {
+                "name": "李秀妍u",
+                "desc": "钓成翘嘴版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/u-17115.webp",
+                "vid": "u-17115"
+            },
+            {
+                "name": "张安琪",
+                "desc": "马来西亚夹子申请出战！",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/5172638b-0dea-4bb1-8279-05bca6cc36e7.webp",
+                "vid": "5172638b-0dea-4bb1-8279-05bca6cc36e7"
+            },
+            {
+                "name": "麻勒勒",
+                "desc": "明天依旧光芒万丈呀，宝贝！",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/a62b8769-de60-46d7-9f27-e868b052eaad.webp",
+                "vid": "a62b8769-de60-46d7-9f27-e868b052eaad"
+            },
+            {
+                "name": "阿七",
+                "desc": "甜欲版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/750b3247-75dd-4df2-9990-b62cee3ffefc.webp",
+                "vid": "750b3247-75dd-4df2-9990-b62cee3ffefc"
+            },
+            {
+                "name": "摆摆",
+                "desc": "俏皮版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/ecc82f1c-8285-44a5-ac19-01a03dfda76c.webp",
+                "vid": "ecc82f1c-8285-44a5-ac19-01a03dfda76c"
+            },
+            {
+                "name": "小镜子",
+                "desc": "嗲嗲版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/4477cfc5-c0d7-46e9-a414-5d5b0e1d39d5.webp",
+                "vid": "4477cfc5-c0d7-46e9-a414-5d5b0e1d39d5"
+            },
+            {
+                "name": "七七7小猪",
+                "desc": "小宝，来听小猪讲故事~",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/7-17248.webp",
+                "vid": "7-17248"
+            },
+            {
+                "name": "雪碧",
+                "desc": "纯御版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/8af295c1-d61e-42b0-9fb5-e8d68394f7ce.webp",
+                "vid": "8af295c1-d61e-42b0-9fb5-e8d68394f7ce"
+            },
+            {
+                "name": "念阿念",
+                "desc": "娇甜版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/e2ff7d45-3212-42e5-aed9-a30b9c99ef70.webp",
+                "vid": "e2ff7d45-3212-42e5-aed9-a30b9c99ef70"
+            },
+            {
+                "name": "不川秋衣",
+                "desc": "清甜语音",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/d1172c89-9eac-473a-9aea-ed9a1253feaf.webp",
+                "vid": "d1172c89-9eac-473a-9aea-ed9a1253feaf"
+            },
+            {
+                "name": "喵喵球",
+                "desc": "刚满18岁的喵喵",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/58312b46-387f-4a82-a443-1c8df0459fd8.webp",
+                "vid": "58312b46-387f-4a82-a443-1c8df0459fd8"
+            },
+            {
+                "name": "钟晨瑶",
+                "desc": "愿你快乐出现！",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/a36f5023-85bc-4e27-a62b-1478e9b01908.webp",
+                "vid": "a36f5023-85bc-4e27-a62b-1478e9b01908"
+            },
+            {
+                "name": "乐乐妮儿",
+                "desc": "齁甜版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/98f7525b-92f3-4678-9900-74bf5a589e73.webp",
+                "vid": "98f7525b-92f3-4678-9900-74bf5a589e73"
+            },
+            {
+                "name": "王星辰",
+                "desc": "风吹云散，星辰相伴",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/7b3d75b9-bbde-4966-8e0d-a4081cb91384.webp",
+                "vid": "7b3d75b9-bbde-4966-8e0d-a4081cb91384"
+            },
+            {
+                "name": "佳佳子",
+                "desc": "呆萌萌版",
+                "img": "https://dlaudio.fineshare.net/cover/song-ai/covers/2e78bebc-793b-44a7-a7d2-dc20e552f3e5.webp",
+                "vid": "2e78bebc-793b-44a7-a7d2-dc20e552f3e5"
+            }
+        ]
+    },
     "原神音色": {
         "token": "no",
         "sort": "13",
