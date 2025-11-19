@@ -1,5 +1,6 @@
 # 更新日志  
-PKC越狱源: http://apt.curtin.top  
+PKC越狱源1:` https://pkc.qzz.io `    
+PKC越狱源2:` https://curtin.dpdns.org `  
 版本号带有Beta均为测试版本，非内测用户不建议安装使用，否则所有功能无法正常使用！  
 ———————————————————————————————————
 
